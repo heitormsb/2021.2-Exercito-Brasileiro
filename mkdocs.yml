@@ -1,11 +1,8 @@
 site_name: Grupo 4
 
-
 theme:
   name: material
   language: 'pt'
 
 nav:
     - Inicio: index.md
-
-
