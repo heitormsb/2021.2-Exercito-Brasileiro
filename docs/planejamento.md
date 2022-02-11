@@ -33,15 +33,14 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 #### Entrega 1
 |    Integrantes    |      Atividade(s)      |
 | :--------: | ------------- |
-| Kevin Luis | Cronograma do projeto |
-| Eduarda Tavares |  |
+| Kevin Luis | Cronograma e metodologia do projeto |
+| Eduarda Tavares | Processo de design |
 | Heitor Marques | Sites avaliados e escolhido |
-| João Alves |  |
-| Levi Queiroz |  |
-| Daniel Coimbra |  |
+| João Alves | Ferramentas |
+| Levi Queiroz | Processo de design |
+| Daniel Coimbra | Processo de design |
 
-<center>Entrega 1</center>
-...
+
 
 ## 3. Ferramentas utilizadas
 ...
@@ -49,7 +48,8 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 ## Versionamento
 
 |Versão|Data|Descrição|Autor|
-|------|----|---------|-----|
+|------|----|:---------:|-----|
 |0.1|09/02/2022|Criado base do planejamento|[Heitor Marques](github.com/heitormsb)|
 |0.2|09/02/2022|Adicionado sites avaliados e escolhido|[Heitor Marques](github.com/heitormsb)|
 |0.3|10/02/2022| Criação do cronograma | [Kevin Batista](https://github.com/k3vin-batista) |
+|0.4|10/02/2022| Edição da divisão de tarefas da entrega 1 | [Kevin Batista](https://github.com/k3vin-batista) |
