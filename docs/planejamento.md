@@ -43,7 +43,21 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 
 
 ## 3. Ferramentas utilizadas
-...
+| Ferramenta | Nome | Descrição |
+|:--:|:--:|:--:|
+|<img width="80px" height="80px" src="../assets/icons/eb.png" alt="Exército Brasileiro">       | Exército Brasileiro | Site do Exército Brasileiro, escolhido para avaliação |
+|<img width="80px" height="80px" src="../assets/icons/github.png" alt="GitHub">                | GitHub | Ferramenta utilizada para controle de versionamento de código |
+|<img width="80px" height="80px" src="../assets/icons/word.png" alt="Microsoft Word">          | Microsoft Word|Editor de documentos .doc|
+|<img width="80px" height="80px" src="../assets/icons/teams.png" alt="Microsoft Teams">        | Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
+|<img width="80px" height="80px" src="../assets/icons/loom.png" alt="Loom">                    | Loom | Plataforma para gravação de vídeos, utilizado nas apresentações |
+|<img width="80px" height="80px" src="../assets/icons/canva.png" alt="Canva">                  | Canva|Plataforma utilizada na produção de slides|
+|<img width="80px" height="80px" src="../assets/icons/vscode.png" alt="VSCode">                | Visual Studio Code | Editor de código-fonte |
+|<img width="80px" height="80px" style="border-radius:80px;" src="../assets/icons/figma.png" alt="Figma">                  | Figma|Ferramenta utilizada na criação de protótipos de alta fidelidade |
+|<img width="80px" height="80px" src="../assets/icons/drive.png" alt="Drive">                  | Google Drive | Plataforma de armazenamento de arquivos na nuvem |
+|<img width="80px" height="80px" style="border-radius:80px;" src="../assets/icons/excel.jpg" alt="Excel">                  | Microsoft Excel | Editor de planilhas |
+|<img width="80px" height="80px" src="../assets/icons/whatsapp.png" alt="WhatsApp">            | WhatsApp | Aplicativo de comunicação utilizado no dia à dia |
+|<img width="80px" height="80px" style="border-radius:80px;" src="../assets/icons/drawio.jpg" alt="Draw Io">               | Draw.io  | Ferramenta para criação de diagramas |
+
 
 ## Versionamento
 
@@ -53,3 +67,4 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 |0.2|09/02/2022|Adicionado sites avaliados e escolhido|[Heitor Marques](github.com/heitormsb)|
 |0.3|10/02/2022| Criação do cronograma | [Kevin Batista](https://github.com/k3vin-batista) |
 |0.4|10/02/2022| Edição da divisão de tarefas da entrega 1 | [Kevin Batista](https://github.com/k3vin-batista) |
+|0.5|11/02/2022| Adicionado as ferramentas do projeto | [João Alves](https://github.com/Joaoaalves) |
