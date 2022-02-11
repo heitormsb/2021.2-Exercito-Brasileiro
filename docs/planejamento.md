@@ -34,7 +34,7 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 | :--------: | ------------- |
 | Kevin Luis | Cronograma do projeto |
 | Eduarda Tavares |  |
-| Heitor Marques |  |
+| Heitor Marques | Sites avaliados e escolhido |
 | João Alves |  |
 | Levi Queiroz |  |
 | Daniel Coimbra |  |
@@ -51,4 +51,4 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 |------|----|---------|-----|
 |0.1|09/02/2022|Criado base do planejamento|[Heitor Marques](github.com/heitormsb)|
 |0.2|09/02/2022|Adicionado sites avaliados e escolhido|[Heitor Marques](github.com/heitormsb)|
-|0.3|10/02| Criação do cronograma | Kevin Batista |
+|0.3|10/02/2022| Criação do cronograma | [Kevin Batista](https://github.com/k3vin-batista) |
