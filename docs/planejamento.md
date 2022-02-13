@@ -1,19 +1,23 @@
-# Planejamento
+<style>body {text-align: justify}</style>
+
+# Planejamento do Projeto
 
 ## 1. Sites avaliados
 ### 1.1 Sites avaliados individualmente
 Os sites avaliados pelos integrantes do grupo foram:<br>
 
+- [**Governo do Distrito Federal**](http://www.df.gov.br/) -  Realizada por: [Daniel Coimbra](https://github.com/DanielCoimbra)<br>
 - [**Prefeitura de São Sebastião do Alto**](http://ssalto.rj.gov.br/) - Realizada por: [Eduarda Tavares](https://github.com/erteduarda)<br>
 - [**Exército Brasileiro**](https://www.eb.mil.br/) - Realizada por: [Heitor Marques](https://github.com/heitormsb)<br>
 - [**SIGAA**](http://sig.unb.br/) -  Realizada por: [João Alves](https://github.com/Joaoaalves)<br>
 - [**Senado Federal**](https://www12.senado.leg.br/hpsenado) -  Realizada por: [Kevin Luis](https://github.com/k3vin-batista)<br>
 - **Não enviou** -  <s>Realizada por:</s> [Levi Queiroz](https://github.com/LeviQ27)<br>
-- [**Governo do Distrito Federal**](http://www.df.gov.br/) -  Realizada por: [Daniel Coimbra](https://github.com/DanielCoimbra)<br>
+
 
 
 ### 1.2 Site escolhido
-Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da avaliação individual de todos integrantes, foi escolhido a avaliação do site do [Exército Brasileiro](https://www.eb.mil.br/) para a disciplina. A avaliação esta diponivel neste [link](https://docs.google.com/document/d/1emHM_Uok_XaT4gulwMliECSgZbMmppMcVZiRdROFzJY/edit?usp=sharing).  
+Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da avaliação individual de todos integrantes, foi escolhido a avaliação do site do [Exército Brasileiro](https://www.eb.mil.br/) para a disciplina.
+A avaliação está diponível neste [link](https://docs.google.com/document/d/1emHM_Uok_XaT4gulwMliECSgZbMmppMcVZiRdROFzJY/edit?usp=sharing).
 <center><img src="../img/eb_site.png" width="400px"></center>
 
 ## 2. Cronograma
@@ -33,30 +37,31 @@ Por uma reunião realizada com o grupo no dia 08/02/2022 e após análise da ava
 #### Entrega 1
 |    Integrantes    |      Atividade(s)      |
 | :--------: | ------------- |
-| Kevin Luis | Cronograma e metodologia do projeto |
+| Daniel Coimbra | Processo de design |
 | Eduarda Tavares | Processo de design |
 | Heitor Marques | Sites avaliados e escolhido |
 | João Alves | Ferramentas |
+| Kevin Luis | Cronograma e metodologia do projeto |
 | Levi Queiroz | Processo de design |
-| Daniel Coimbra | Processo de design |
+
 
 
 
 ## 3. Ferramentas utilizadas
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
-|<img width="80px" height="80px" src="../assets/icons/eb.png" alt="Exército Brasileiro">       | Exército Brasileiro | Site do Exército Brasileiro, escolhido para avaliação |
-|<img width="80px" height="80px" src="../assets/icons/github.png" alt="GitHub">                | GitHub | Ferramenta utilizada para controle de versionamento de código |
-|<img width="80px" height="80px" src="../assets/icons/word.png" alt="Microsoft Word">          | Microsoft Word|Editor de documentos .doc|
-|<img width="80px" height="80px" src="../assets/icons/teams.png" alt="Microsoft Teams">        | Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
-|<img width="80px" height="80px" src="../assets/icons/loom.png" alt="Loom">                    | Loom | Plataforma para gravação de vídeos, utilizado nas apresentações |
-|<img width="80px" height="80px" src="../assets/icons/canva.png" alt="Canva">                  | Canva|Plataforma utilizada na produção de slides|
-|<img width="80px" height="80px" src="../assets/icons/vscode.png" alt="VSCode">                | Visual Studio Code | Editor de código-fonte |
-|<img width="80px" height="80px" style="border-radius:80px;" src="../assets/icons/figma.png" alt="Figma">                  | Figma|Ferramenta utilizada na criação de protótipos de alta fidelidade |
-|<img width="80px" height="80px" src="../assets/icons/drive.png" alt="Drive">                  | Google Drive | Plataforma de armazenamento de arquivos na nuvem |
-|<img width="80px" height="80px" style="border-radius:80px;" src="../assets/icons/excel.jpg" alt="Excel">                  | Microsoft Excel | Editor de planilhas |
-|<img width="80px" height="80px" src="../assets/icons/whatsapp.png" alt="WhatsApp">            | WhatsApp | Aplicativo de comunicação utilizado no dia à dia |
-|<img width="80px" height="80px" style="border-radius:80px;" src="../assets/icons/drawio.jpg" alt="Draw Io">               | Draw.io  | Ferramenta para criação de diagramas |
+|<img width="40px" height="40px" src="../img/logo.png" alt="Exército Brasileiro">       | Exército Brasileiro | Site do Exército Brasileiro, escolhido para avaliação |
+|<img width="40px" height="40px" src="../img/github.png" alt="GitHub">                | GitHub | Ferramenta utilizada para controle de versionamento de código |
+|<img width="40px" height="40px" src="../img/word.png" alt="Microsoft Word">          | Microsoft Word|Editor de documentos .doc|
+|<img width="40px" height="40px" src="../img/teams.png" alt="Microsoft Teams">        | Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
+|<img width="40px" height="40px" src="../img/loom.png" alt="Loom">                    | Loom | Plataforma para gravação de vídeos, utilizado nas apresentações |
+|<img width="40px" height="40px" src="../img/canva.png" alt="Canva">                  | Canva|Plataforma utilizada na produção de slides|
+|<img width="40px" height="40px" src="../img/vscode.png" alt="VSCode">                | Visual Studio Code | Editor de código-fonte |
+|<img width="40px" height="40px" style="border-radius:40px;" src="../img/figma.png" alt="Figma">                  | Figma|Ferramenta utilizada na criação de protótipos de alta fidelidade |
+|<img width="40px" height="40px" src="../img/drive.png" alt="Drive">                  | Google Drive | Plataforma de armazenamento de arquivos na nuvem |
+|<img width="40px" height="40px" style="border-radius:40px;" src="../img/excel.jpg" alt="Excel">                  | Microsoft Excel | Editor de planilhas |
+|<img width="40px" height="40px" src="../img/whatsapp.png" alt="WhatsApp">            | WhatsApp | Aplicativo de comunicação utilizado no dia à dia |
+|<img width="40px" height="40px" style="border-radius:40px;" src="../img/drawio.jpg" alt="Draw Io">               | Draw.io  | Ferramenta para criação de diagramas |
 
 
 ## Versionamento

@@ -1,9 +1,15 @@
-site_name: Grupo 4
+site_name: Exército Brasileiro - IHC 2021.2
 
 theme:
   name: material
   language: 'pt'
+  logo: img/logo.png
+  favicon: img/logo.png
+  palette:
+    primary: green
 
 nav:
     - Inicio: index.md
-    - Planejamento: planejamento.md
+    - Planejamento:
+      - Planejamento do Projeto: planejamento.md
+      - Processo de Design: processo_design.md
