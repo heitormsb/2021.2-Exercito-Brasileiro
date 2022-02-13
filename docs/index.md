@@ -1,3 +1,5 @@
+<style>body {text-align: justify}</style>
+
 # Exército Brasileiro
 
 ## Sobre o Projeto
@@ -9,12 +11,12 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 
 Foto                                 |Integrante      |GitHub
 -------------------------------------|--------------  |------
-<img src="../img/Daniel.jpeg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Daniel Coimbra  |DanielCoimbra
-<img src="../img/Eduarda.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Eduarda Tavares |erteduarda
-<img src="../img/Heitor.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Heitor Marques    |heitormsb
-<img src="../img/Alves.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|João Alves  |Joaoaalves
-<img src="../img/Kevin.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Kevin Luis   |k3vin-batista
-<img src="../img/Levi.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Levi Queiroz  |LeviQ27
+<img src="img/Daniel.jpeg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Daniel Coimbra  |DanielCoimbra
+<img src="img/Eduarda.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Eduarda Tavares |erteduarda
+<img src="img/Heitor.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Heitor Marques    |heitormsb
+<img src="img/Alves.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|João Alves  |Joaoaalves
+<img src="img/Kevin.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Kevin Luis   |k3vin-batista
+<img src="img/Levi.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Levi Queiroz  |LeviQ27
 
 
 ## Versionamento
@@ -22,4 +24,4 @@ Foto                                 |Integrante      |GitHub
 |Versão|Data|Descrição|Autor|
 |------|----|:---------:|-----|
 |0.1|07/02/2022| Criando Página | [Eduarda Tavares](https://github.com/etavares) |
-|0.1|13/02/2022| Atualizando informações | [Eduarda Tavares](https://github.com/etavares) |
+|0.2|13/02/2022| Atualizando informações | [Eduarda Tavares](https://github.com/etavares) |
