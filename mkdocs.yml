@@ -16,12 +16,12 @@ nav:
       - Processo de Design: processo_design.md
       - Metodologia: metodologia.md
     - Analise de requisitos:
-      - Perfil do Usuário: 
+      - Perfil do Usuário: ./analise_requisitos/personas.md
       - Personas: ./analise_requisitos/personas.md
       - Análise de Tarefas:
-        - HTA: 
-        - CTT: 
-        - KLM: 
-        - CMN-GOMS: 
+        - HTA: ./analise_requisitos/personas.md
+        - CTT: ./analise_requisitos/personas.md
+        - KLM: ./analise_requisitos/personas.md
+        - CMN-GOMS: ./analise_requisitos/personas.md
     - Entregáveis:
       - Entraga 1: entrega1.md
