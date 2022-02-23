@@ -12,7 +12,16 @@ nav:
     - Inicio: index.md
     - Planejamento:
       - Planejamento do Projeto: planejamento.md
+      - Sites Avaliados: sites_avaliados.md
       - Processo de Design: processo_design.md
       - Metodologia: metodologia.md
+    - Analise de requisitos:
+      - Perfil do Usuário: ./analise_requisitos/...
+      - Personas: ./analise_requisitos/personas.md
+      - Análise de Tarefas:
+        - HTA: ./analise_requisitos/...
+        - CTT: ./analise_requisitos/...
+        - KLM: ./analise_requisitos/...
+        - CMN-GOMS: ./analise_requisitos/...
     - Entregáveis:
       - Entraga 1: entrega1.md
