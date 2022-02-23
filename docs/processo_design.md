@@ -30,6 +30,6 @@ Conseguindo a solução ideal, podemos partir novamente para a instalação, ond
 
 ## Versionamento
 
-|Versão|Data|Descrição|Autor|
-|------|----|:---------:|-----|
-|0.1|13/02/2022| Adicionado Processo de Design | [Eduarda Tavares](https://github.com/etavares) |
+|Versão|Data|Descrição|Autor|Revisor|
+|------|----|:---------:|-----|-----|
+|0.1|13/02/2022| Adicionado Processo de Design | [Eduarda Tavares](https://github.com/etavares) ||

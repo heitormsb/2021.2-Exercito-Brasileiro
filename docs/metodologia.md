@@ -18,7 +18,7 @@ Os integrantes do projeto tem um grupo na plataforma WhatsApp para troca de mens
 
 ## Versionamento
 
-|Versão|Data|Descrição|Autor|
-|------|----|:---------:|-----|
-|0.1|10/02/2022| Criação da Metodologia | [Kevin Batista](https://github.com/k3vin-batista) |
-|0.2|13/02/2022| Adicionando a página | [Eduarda Tavares](https://github.com/etavares) |
+|Versão|Data|Descrição|Autor|Revisor|
+|------|----|:---------:|-----|-----|
+|0.1|10/02/2022| Criação da Metodologia | [Kevin Batista](https://github.com/k3vin-batista) ||
+|0.2|13/02/2022| Adicionando a página | [Eduarda Tavares](https://github.com/etavares) ||
