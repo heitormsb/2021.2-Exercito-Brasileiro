@@ -4,7 +4,8 @@
 
 ## Sobre o Projeto
 
-Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília, no semestre de 2021.2. 
+Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília, no semestre de 2021.2.
+Onde tem como objetivo analisar e propor melhorias ao site do [Exército Brasileiro](https://www.eb.mil.br/) usando os conhecimentos, métodos e conceitos aprendidos na matéria de IHC. O site tem como função apresentar as principais atividades do exército brasileiro, ingressos, notícias, etc, porém foram identificados problemas como: O retorno de buscas do sistema de busca, página informação em excesso e sem suporte ao usuário.
 
 
 ## Equipe
@@ -25,3 +26,4 @@ Foto                                 |Integrante      |GitHub
 |------|----|:---------:|-----|
 |0.1|07/02/2022| Criando Página | [Eduarda Tavares](https://github.com/etavares) |
 |0.2|13/02/2022| Atualizando informações | [Eduarda Tavares](https://github.com/etavares) |
+|0.3|24/02/2022| Atualizando sobre o projeto | [Heitor Marques](github.com/heitormsb)|
