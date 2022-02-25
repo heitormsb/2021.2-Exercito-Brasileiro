@@ -7,18 +7,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 
 # 2. Personas
 
-|Persona 1|<img src="../img_personas/image4.jpg" width="200px">|
-|-----|----|
-|Nome|Paulo Almeida|
-|Idade|63| 
-|Status|Persona Primária|
-|Escolaridade|Superior completo|
-|Profissão|Militar (Aposentado)|
-|Habilidades|Disciplina, liderança, escritor|
-|Tarefas|Escreve histórias marcantes que ocorreram em sua vida|
-|Expectativas|Dificuldade em navegar pelo sistema e desorientado pelo sistema não mostrar o status de envio|
-
-|Persona 2|<img src="../img_personas/image5.jpg" width="200px">|
+|Persona 1|<img src="../img_personas/image5.jpg" width="200px">|
 |-----|----|
 |Nome|Gustavo Veras|
 |Idade|24| 
@@ -29,7 +18,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Encontrar o regulamento de uniformes do exército|
 |Expectativas|Facilidade de encontrar, pois espera uma interface interativa|
 
-|Persona 3|<img src="../img_personas/image1.jpg" width="200px">|
+|Persona 2|<img src="../img_personas/image1.jpg" width="200px">|
 |-----|----|
 |Nome|André Xin|
 |Idade|17| 
@@ -40,7 +29,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Se informar sobre o alistamento obrigatório|
 |Expectativas|Por ser um site do exército espera obter de cara a informação, porém nunca usou o site|
 
-|Persona 4|<img src="../img_personas/image3.jpg" width="200px">|
+|Persona 3|<img src="../img_personas/image3.jpg" width="200px">|
 |-----|----|
 |Nome|Pedro Batista|
 |Idade|36| 
@@ -51,16 +40,27 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Procurar referências de fotos na internet, e praticar novas línguas|
 |Expectativas|O usuario nao vai influenciar no projeto, já que não utiliza o sistema|
 
-|Persona 5|<img src="../img_personas/image2.jpg" width="200px">|
+|Persona 4|<img src="../img_personas/image2.jpg" width="200px">|
 |-----|----|
 |Nome|Fernanda Fagulha|
 |Idade|44| 
-|Status|Persona secundária|
+|Status|Persona Primaria|
 |Escolaridade|Superior completo|
 |Profissão|Bióloga|
 |Habilidades|Especialista em meio ambiente, aventureira|
 |Tarefas|Pesquisa notícias sobre meio ambiente e energia renovável|
 |Expectativas|A usuária por frequentar sites corriqueiramente procurando notícias terá facilidade em encontrar o que deseja|
+
+|Persona 5|<img src="../img_personas/image4.jpg" width="200px">|
+|-----|----|
+|Nome|Paulo Almeida|
+|Idade|63| 
+|Status|Persona Secundaria|
+|Escolaridade|Superior completo|
+|Profissão|Militar (Aposentado)|
+|Habilidades|Disciplina, liderança, escritor|
+|Tarefas|Escreve histórias marcantes que ocorreram em sua vida|
+|Expectativas|Dificuldade em navegar pelo sistema e desorientado pelo sistema não mostrar o status de envio|
 
 
 ## Referências bibliográficas
