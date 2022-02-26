@@ -413,12 +413,18 @@
     Motivo da Escolha
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#resultado" class="md-nav__link">
-    Resultado
+    <nav class="md-nav" aria-label="Motivo da Escolha">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hta01" class="md-nav__link">
+    HTA01
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -586,12 +592,18 @@
     Motivo da Escolha
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#resultado" class="md-nav__link">
-    Resultado
+    <nav class="md-nav" aria-label="Motivo da Escolha">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hta01" class="md-nav__link">
+    HTA01
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -629,8 +641,47 @@
 <p>O objetivo da Análise Hierárquica de Tarefas, em inglês HTA – (Hierarchical Task Analysis), é entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho, de acordo com Annett e Duncan.
 A HTA ajuda a relacionar <em>o que</em> as pessoas fazem, <em>por que</em> o fazem e <em>quais</em> as consequências caso nao o façam corretamente.(BARBOSA e SILVA, 2010)</p>
 <h2 id="motivo-da-escolha">Motivo da Escolha</h2>
-<p>A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica da investigação de problemas de IHC (Annet e Diaper, 2003). Ela foca em decompor tarefas do sistema dividindo-as em objetivos, subobjetivos e operações, e relacionando-as de diferentes maneiras em comparação as tarefas executadas pelo usuário.</p>
-<h2 id="resultado">Resultado</h2>
+<p>A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica da investigação de problemas de IHC (Annet e Diaper, 2003). Ela foca em decompor tarefas do sistema dividindo-as em objetivos e subobjetivos, relacionando-os através de um plano, esse que relaciona os subobjetivos através de operações. Abaixo a definição dos conceitos com base no livro "Interação Humano Computador ( Barbosa, S.;Silva, B. 2010) - capítulo 6".
+- <strong>Tarefa</strong>: parte do trabalho que precisa ser realizada, pode ser definida através dos objetivos. Caso uma tarefa seja complexa, ela será dividida em objetivos e subobjetivos.
+- <strong>Objetivo</strong>: é o que se deseja atingir, o estado final. Esses objetivos serão decompostos em subobjetivos buscando identificar quais sao os mais difíceis de serem atingidos e que limitam ou impedem chegar no objetivo maior.
+- <strong>Plano</strong>: Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.
+- <strong>Operação</strong>: é especificada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).</p>
+<p>Aplicando AHT relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01.</p>
+<h3 id="hta01">HTA01</h3>
+<p><img alt="" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro/main/docs/img/hta01.png" /></p>
+<p><em>Tarefa 1 - Como ingressar no exército brasileiro</em></p>
+<p>O objetivo principal é conseguir informações sobre como ingressar no Exército Brasileiro, a partir dele surgem os subjetivos de achar o botão de como ingressar e clicar nas opções de como entrar parar o serviço militar, isso é representado na tabela abaixo:</p>
+<table>
+<thead>
+<tr>
+<th>Objetivos/Operações</th>
+<th>Problemas/Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Saber mais informações de sobre como ingressar no exército brasileiro</td>
+<td>Ação: entrar no sítio eletrônico https://www.eb.mil.br/.</td>
+</tr>
+<tr>
+<td>1. Clicar em "Como Ingressar"</td>
+<td>Problema: O texto "como ingressar" está escrito com uma fonte pequena. Ação: achar o botão e clicar.</td>
+</tr>
+<tr>
+<td>1.1. Clicar em militar de carreira</td>
+<td>Ação: clicar e ler o conteúdo</td>
+</tr>
+<tr>
+<td>1.2. Clicar em militar temporário</td>
+<td>Ação: clicar e ler o conteúdo</td>
+</tr>
+<tr>
+<td>1.3. Clicar em aluno do sistema Colégio Militar do Brasil</td>
+<td>Ação: clicar e ler o conteúdo</td>
+</tr>
+</tbody>
+</table>
+<p><em>Tabela 1 - Como ingressar no exército brasileiro</em></p>
 <h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
 <p>Livro: Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organização no espaço de problema.</p>
 <h2 id="versionamento">Versionamento</h2>
@@ -646,8 +697,20 @@ A HTA ajuda a relacionar <em>o que</em> as pessoas fazem, <em>por que</em> o faz
 <tbody>
 <tr>
 <td>0.0.1</td>
-<td>10/02/2022</td>
+<td>24/02/2022</td>
 <td align="center">Criação da definição e Motivo da Escolha</td>
+<td><a href="https://github.com/k3vin-batista">Kevin Batista</a></td>
+</tr>
+<tr>
+<td>0.0.2</td>
+<td>25/02/2022</td>
+<td align="center">Adição da Tarefa 1 e tabela 1</td>
+<td><a href="https://github.com/k3vin-batista">Kevin Batista</a></td>
+</tr>
+<tr>
+<td>1.0</td>
+<td>25/02/2022</td>
+<td align="center">Primeira versão do documento</td>
 <td><a href="https://github.com/k3vin-batista">Kevin Batista</a></td>
 </tr>
 </tbody>
