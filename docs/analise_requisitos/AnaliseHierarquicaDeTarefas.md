@@ -16,7 +16,7 @@ A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica d
 
 Aplicando AHT relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01.
 ### HTA01
-![](https://github.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro/blob/main/docs/img/hta01.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro/main/docs/img/hta01.png)
 
 _Tarefa 1 - Como ingressar no exército brasileiro_
 
