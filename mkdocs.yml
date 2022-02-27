@@ -21,9 +21,9 @@ nav:
       - Personas: ./analise_requisitos/personas.md
       - Análise de Tarefas:
         - HTA: ./analise_requisitos/AnaliseHierarquicaDeTarefas.md
-        - CTT: ./analise_requisitos/ctt.md ##mudar arquivo
-        - KLM: ./analise_requisitos/personas.md ##mudar arquivo
-        - CMN-GOMS: ./analise_requisitos/Cmn_Goms.md ##mudar arquivo
+        - CTT: ./analise_requisitos/ctt.md 
+        # - KLM: ./analise_requisitos/personas.md ##mudar arquivo
+        - CMN-GOMS: ./analise_requisitos/Cmn_Goms.md 
     - Entregáveis:
       - Entraga 1: entrega1.md
       - Entraga 2: entrega2.md
