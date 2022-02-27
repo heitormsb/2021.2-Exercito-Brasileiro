@@ -54,10 +54,10 @@ _Tabela 2 - Me informar sobre o regulamento de uniformes do exército_
 Livro: Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organização no espaço de problema.
 
 ## Versionamento
-|Versão|Data|Descrição|Autor|
-|------|----|:---------:|-----|
-|0.0.1|24/02/2022| Criação da definição e Motivo da Escolha | [Kevin Batista](https://github.com/k3vin-batista)|
-|0.0.2|25/02/2022| Adição da Tarefa 1 e tabela 1 | [Kevin Batista](https://github.com/k3vin-batista)|
-|1.0|25/02/2022| Primeira versão do documento | [Kevin Batista](https://github.com/k3vin-batista)|
-|2.0|26/02/2022| Adicionada HTA02 | [Kevin Batista](https://github.com/k3vin-batista)|
+|Versão|Data|Descrição|Autor|Revisor|
+|------|----|:---------:|-----|-----|
+|0.0.1|24/02/2022| Criação da definição e Motivo da Escolha | [Kevin Batista](https://github.com/k3vin-batista)|-|
+|0.0.2|25/02/2022| Adição da Tarefa 1 e tabela 1 | [Kevin Batista](https://github.com/k3vin-batista)|-|
+|1.0|25/02/2022| Primeira versão do documento | [Kevin Batista](https://github.com/k3vin-batista)|[Heitor Marques](github.com/heitormsb)|
+|2.0|26/02/2022| Adicionada HTA02 | [Kevin Batista](https://github.com/k3vin-batista)|[Heitor Marques](github.com/heitormsb)|
 
