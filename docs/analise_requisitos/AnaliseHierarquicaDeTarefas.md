@@ -38,6 +38,18 @@ _Tabela 1 - Como ingressar no exército brasileiro_
 
 _Tarefa 2- Me informar sobre o regulamento de uniformes do exército_
 
+
+O objetivo principal é se interar sobre o regulamento de uniformes do Exército Brasileiro, a partir disso surgem os subjetivos de clicar em publicações localizada na pagina principal do site e em seguida clicar em RUE e na publicação desejada, isso é representado na tabela abaixo:
+
+|Objetivos/Operações|Problemas/Recomendações|
+|------|----|
+|0. Saber mais informações sobre os uniformes do exército brasileiro|Ação: entrar no sítio eletrônico https://www.eb.mil.br/.|
+|1. Clicar em "Publicações"|Ação: achar o botão e clicar.|
+|2. Clicar em RUE | Problema: Para uma pessoa que nao tem muita informação nao fica claro o que é RUE, que seria o regulamento de uniformes do exército. Ação: achar o botão e clicar|
+|3. Clicar na publicação desejada|Ação: clicar e ler o conteúdo|
+
+_Tabela 2 - Me informar sobre o regulamento de uniformes do exército_
+
 ## Referências Bibliográficas
 Livro: Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organização no espaço de problema.
 
@@ -47,3 +59,5 @@ Livro: Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organiza
 |0.0.1|24/02/2022| Criação da definição e Motivo da Escolha | [Kevin Batista](https://github.com/k3vin-batista)|
 |0.0.2|25/02/2022| Adição da Tarefa 1 e tabela 1 | [Kevin Batista](https://github.com/k3vin-batista)|
 |1.0|25/02/2022| Primeira versão do documento | [Kevin Batista](https://github.com/k3vin-batista)|
+|2.0|26/02/2022| Adicionada HTA02 | [Kevin Batista](https://github.com/k3vin-batista)|
+
