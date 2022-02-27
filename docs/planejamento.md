@@ -29,7 +29,7 @@
 #### Entrega 2
 |    Integrantes    |      Atividade(s)      | Data Realizada|
 | :--------: | ------------- | ------------ |
-| Eduarda Tavares | Análise de Tarefas: CTT e Vídeo ||
+| Eduarda Tavares | Análise de Tarefas: CTT e Vídeo |27/02/2022|
 | Heitor Marques | Personas, Divisão Entrega 2 |22/02/2022|
 | Heitor Marques | Análise de Tarefas: CMN-GOMS|26/02/2022|
 | João Alves | Perfil do Usuário |24/02/2022|
