@@ -7,7 +7,7 @@ Os modelos CMN-GOMS podem permitir prever a sequência de operadores e o tempo d
 A análise a seguir busca mostrar o sequenciamento, as operações, os objetivos, sub-objetivos e as operaçoes para realizar a tarefa de obtenção de informações sobre o ingresso a carreira militar.
 
 ```
-GOAL 0: Saber mais informações de sobre como ingresso como militar de carreira
+GOAL 0: Saber mais informações sobre como ingressar como militar de carreira
   GOAL 1: Acessar opçoes de ingresso
     OP 1.1: Mover o cursor ate "Como Ingressar"
     OP 1.2: Clicar com o botão direito do mouse
