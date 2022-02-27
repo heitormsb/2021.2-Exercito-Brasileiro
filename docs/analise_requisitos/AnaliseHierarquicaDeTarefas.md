@@ -8,10 +8,11 @@ A HTA ajuda a relacionar _o que_ as pessoas fazem, _por que_ o fazem e _quais_ a
 
 ## Motivo da Escolha
 
-A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica da investigação de problemas de IHC (Annet e Diaper, 2003). Ela foca em decompor tarefas do sistema dividindo-as em objetivos e subobjetivos, relacionando-os através de um plano, esse que relaciona os subobjetivos através de operações. Abaixo a definição dos conceitos com base no livro "Interação Humano Computador ( Barbosa, S.;Silva, B. 2010) - capítulo 6".
-- **Tarefa**: parte do trabalho que precisa ser realizada, pode ser definida através dos objetivos. Caso uma tarefa seja complexa, ela será dividida em objetivos e subobjetivos.
-- **Objetivo**: é o que se deseja atingir, o estado final. Esses objetivos serão decompostos em subobjetivos buscando identificar quais sao os mais difíceis de serem atingidos e que limitam ou impedem chegar no objetivo maior.
-- **Plano**: Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.
+A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica da investigação de problemas de IHC (Annet e Diaper, 2003). Ela foca em decompor tarefas do sistema dividindo-as em objetivos e subobjetivos, relacionando-os através de um plano, esse que relaciona os subobjetivos através de operações. Abaixo a definição dos conceitos com base no livro "Interação Humano Computador ( Barbosa, S.;Silva, B. 2010) - capítulo 6".  
+
+- **Tarefa**: parte do trabalho que precisa ser realizada, pode ser definida através dos objetivos. Caso uma tarefa seja complexa, ela será dividida em objetivos e subobjetivos.  
+- **Objetivo**: é o que se deseja atingir, o estado final. Esses objetivos serão decompostos em subobjetivos buscando identificar quais sao os mais difíceis de serem atingidos e que limitam ou impedem chegar no objetivo maior.  
+- **Plano**: Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.  
 - **Operação**: é especificada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).
 
 Aplicando AHT relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01.

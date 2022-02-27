@@ -8,6 +8,7 @@ theme:
   palette:
     primary: green
 
+
 nav:
     - Inicio: index.md
     - Planejamento:
@@ -22,6 +23,6 @@ nav:
         - HTA: ./analise_requisitos/AnaliseHierarquicaDeTarefas.md
         - CTT: ./analise_requisitos/personas.md ##mudar arquivo
         - KLM: ./analise_requisitos/personas.md ##mudar arquivo
-        - CMN-GOMS: ./analise_requisitos/personas.md ##mudar arquivo
+        - CMN-GOMS: ./analise_requisitos/Cmn_Goms.md ##mudar arquivo
     - Entregáveis:
       - Entraga 1: entrega1.md
