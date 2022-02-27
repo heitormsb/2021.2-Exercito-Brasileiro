@@ -19,21 +19,21 @@
 #### Entrega 1
 |    Integrantes    |      Atividade(s)      | Data Realizada|
 | :--------: | ------------- | ------------ |
-| Daniel Coimbra | Processo de design ||
-| Eduarda Tavares | Processo de design ||
+| Daniel Coimbra | Processo de design |13/02/2022|
+| Eduarda Tavares | Processo de design |13/02/2022|
 | Heitor Marques | Sites avaliados e escolhido |09/02/2022|
 | João Alves | Ferramentas |11/02/2022|
 | Kevin Luis | Cronograma e metodologia do projeto |10/02/2022|
-| Levi Queiroz | Processo de design ||
+| Levi Queiroz | Processo de design |13/02/2022|
 
 #### Entrega 2
 |    Integrantes    |      Atividade(s)      | Data Realizada|
 | :--------: | ------------- | ------------ |
-| Daniel Coimbra |  ||
 | Eduarda Tavares | Análise de Tarefas: CTT e Vídeo ||
-| Heitor Marques | Personas e Divisão Entrega 2 |22/02/2022|
-| João Alves | Análise de Tarefas: CMN-GOMS ||
-| Kevin Luis | Análise Tarefa: HTA ||
+| Heitor Marques | Personas, Divisão Entrega 2 |22/02/2022|
+| Heitor Marques | Análise de Tarefas: CMN-GOMS|26/02/2022|
+| João Alves | Perfil do Usuário |24/02/2022|
+| Kevin Luis | Análise Tarefa: HTA |25/02/2022|
 | Levi Queiroz | Análise de Tarefas: KLM ||
 
 
