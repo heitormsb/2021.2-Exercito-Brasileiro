@@ -7,7 +7,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 
 # 2. Personas
 
-|Persona 1|<img src="../img_personas/image5.jpg" width="200px">|
+|Persona 1|<img src="../img_personas/image5.jpg" width="200px"><br><small>Persona 1 - retirada do site: [pexels.com](https://www.pexels.com/pt-br/)|
 |-----|----|
 |Nome|Gustavo Veras|
 |Idade|24| 
@@ -18,7 +18,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Encontrar o regulamento de uniformes do exército|
 |Expectativas|Facilidade de encontrar, pois espera uma interface interativa|
 
-|Persona 2|<img src="../img_personas/image1.jpg" width="200px">|
+|Persona 2|<img src="../img_personas/image1.jpg" width="200px"><br><small>Persona 2 - retirada do site: [pexels.com](https://www.pexels.com/pt-br/)|
 |-----|----|
 |Nome|André Xin|
 |Idade|17| 
@@ -29,7 +29,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Se informar sobre o alistamento obrigatório|
 |Expectativas|Por ser um site do exército espera obter de cara a informação, porém nunca usou o site|
 
-|Persona 3|<img src="../img_personas/image3.jpg" width="200px">|
+|Persona 3|<img src="../img_personas/image3.jpg" width="200px"><br><small>Persona 3 - retirada do site: [pexels.com](https://www.pexels.com/pt-br/)|
 |-----|----|
 |Nome|Pedro Batista|
 |Idade|36| 
@@ -40,7 +40,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Procurar referências de fotos na internet, e praticar novas línguas|
 |Expectativas|O usuario nao vai influenciar no projeto, já que não utiliza o sistema|
 
-|Persona 4|<img src="../img_personas/image2.jpg" width="200px">|
+|Persona 4|<img src="../img_personas/image2.jpg" width="200px"><br><small>Persona 4 - retirada do site: [pexels.com](https://www.pexels.com/pt-br/)|
 |-----|----|
 |Nome|Fernanda Fagulha|
 |Idade|44| 
@@ -51,7 +51,7 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Tarefas|Pesquisa notícias sobre meio ambiente e energia renovável|
 |Expectativas|A usuária por frequentar sites corriqueiramente procurando notícias terá facilidade em encontrar o que deseja|
 
-|Persona 5|<img src="../img_personas/image4.jpg" width="200px">|
+|Persona 5|<img src="../img_personas/image4.jpg" width="200px"><br><small>Persona 5 - retirada do site: [pexels.com](https://www.pexels.com/pt-br/)|
 |-----|----|
 |Nome|Paulo Almeida|
 |Idade|63| 
