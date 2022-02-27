@@ -15,7 +15,7 @@ A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica d
 - **Plano**: Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.  
 - **Operação**: é especificada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).
 
-Aplicando AHT relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01.
+Aplicando AHT relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01 e a HTA02.
 ### HTA01
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro/main/docs/img/hta01.png)
 
@@ -32,8 +32,15 @@ O objetivo principal é conseguir informações sobre como ingressar no Exércit
 |1.3. Clicar em aluno do sistema Colégio Militar do Brasil|Ação: clicar e ler o conteúdo|
 
 _Tabela 1 - Como ingressar no exército brasileiro_
+
+### HTA02
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro/main/docs/img/hta02.png)
+
+_Tarefa 2- Me informar sobre o regulamento de uniformes do exército_
+
 ## Referências Bibliográficas
 Livro: Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organização no espaço de problema.
+
 ## Versionamento
 |Versão|Data|Descrição|Autor|
 |------|----|:---------:|-----|
