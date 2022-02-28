@@ -34,7 +34,7 @@
 | Heitor Marques | Análise de Tarefas: CMN-GOMS|26/02/2022|
 | João Alves | Perfil do Usuário |24/02/2022|
 | Kevin Luis | Análise Tarefa: HTA |25/02/2022|
-| Levi Queiroz | Análise de Tarefas: KLM ||
+| Levi Queiroz | Análise de Tarefas: KLM |27/02/2022|
 
 
 
