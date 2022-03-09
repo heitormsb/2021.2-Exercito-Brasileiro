@@ -4,6 +4,7 @@
 O **KLM (Keystroke-level Model)** é um método que permite prognosticar o tempo de operação de uma tarefa sem erros de uma execução por um usuário experiente. Esse método não pressupõem um esforço cognitivo, por isso tem suas limitações. Usa uma lista operadores primários de operação, que são eles:
 
 | **Operação** | **Duração Média (segundos)** |
+|--|--|
 | K significa o apertar de uma tecla | (Mediano) 0,20 |
 | T[n] indica o tempo para se digitar uma tecla | n x K s |
 | P indica o apontar o mouse | 1,10 |
@@ -15,7 +16,7 @@ O **KLM (Keystroke-level Model)** é um método que permite prognosticar o tempo
 <small>Tabela 1 - Operadores e duração média de cada um.
 
 # 2. Análise de desempenho do site do Exército Brasileiro com o KLM
-<img src="../img_klm/Tabela2KLM.png" width="200px"><br><small>Tabela 2 - Análise de operadores pelos métodos propostos
+<img src="../img_klm/Tabela2KLM.png" width="500px"><br>Tabela 2 - Análise de operadores pelos métodos propostos
 
 ## Referências bibliográficas
 BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.<br>
