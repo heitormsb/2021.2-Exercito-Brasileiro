@@ -51,5 +51,5 @@ novo, e se manter informado sobre o usuário.(COOPER, 1999)
 ## 4 Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-|0.1|24/02/2022| Criação do documento e dos tópicos 1, 2 [2.1 - 2.4] | [Kevin Batista](https://github.com/k3vin-batista)|-|
+|0.1|10/03/2022| Criação do documento e dos tópicos 1, 2 [2.1 - 2.4] | [Kevin Batista](https://github.com/k3vin-batista)|-|
 
