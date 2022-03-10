@@ -11,7 +11,7 @@ Esse documento visa passar pelos pricípios e diretrizes mais utilizados em IHC.
 O usuário tem uma expectativa que pode ser boa ou ruim sobre o sistema. Nesse sistema a sequência de ações devem ser o mais fidedigna possível para o usuário.
 O exemplo abaixo nos mostra o que um recruta do exército precisa fazer para ter mais informações sobre seu uniforme no site avaliado do projeto.
 <div align="center">
-<img src="../img/EB_PD02.png" width="500px">
+<img src="../img/EB_PD01.png" width="500px">
 <h6 align = "center">Figura 1: Foto da página principal do site do EB.</h6>
 <h6 align = "center">Fonte: <a href="eb.mil.br">Exército Brasileiro</a>.</h6>
 </div>
