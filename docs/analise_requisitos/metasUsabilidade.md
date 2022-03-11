@@ -27,9 +27,11 @@ As metas de usabilidade envolvem a definição da qualidade dos fatores de uso q
     - **Pergunta a ser feita**: Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência? 
 
 ## 2. Referências bibliográficas
-> ...
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
+
+> Preece, J.; Rogers, Y.; Sharp, H. Design de Interação: Além da Interação Humano-Computador. Bookman, 3ª ed. 2013.
 
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-|0.1|09/03/2022| Adicionado metas de usabilidade | [Heitor Marques](github.com/heitormsb)||
+|0.1|09/03/2022| Adicionado introdução/objetivo metas de usabilidade | [Heitor Marques](github.com/heitormsb)||
 |0.2|10/03/2022| Adicionado os conceitos das metas | [Levi Queiroz](github.com/LeviQ27)||
