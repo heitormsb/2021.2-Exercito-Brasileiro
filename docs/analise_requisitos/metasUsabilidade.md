@@ -26,6 +26,29 @@ As metas de usabilidade envolvem a definição da qualidade dos fatores de uso q
 - **Memorability**: A capacidade de memorização refere-se à facilidade de lembrar como utilizar um sistem depois de já tê-lo aprendido. Isso é muito importante em produtos interativos usados com poucoa frequência. Se os usuários não usaram uma operação por alguns meses ou mais, devem ser capazes de lembrar ou, pelo menos, de voltar a lembrar rapidamente como usá-la. Quando há o caso de esquecer como usa algumas funcionalidades, os usuários precisam de ajuda para lembrar, isso é resolvido a partir do momento em que foi projetado a interação para que ela forneça suporte ao realizar as tarefas. Isso evita forçar os usuários a reaprenderem a realizar as tarefas e consequentemente, se isso acontecer, revela que as funcionalidades são obsucars, ilógicas ou mal sequenciadas.
     - **Pergunta a ser feita**: Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência? 
 
+## Aplicando as metas de usabilidade no site do Exército
+
+<p> 
+Foram aplicados as metas de usabilidade no site escolhido para análise, o site do Exército Brasileiro, e foi constatado que: 
+</p>
+
+- **Eficácia**: O produto permite que as pessoas aprendam, realizem de forma eficiente e acessem a informação que desejam, seja como igressar no Exército ou saber de alguma informação.
+
+- **Eficiência**: Para algumas funcionalidades, os usuários conseguirão manter o alto nível de produtividade. Algumas opçẽs precisam de mais de um toque para que o usuário chegue ao que deseja ou precisa.
+
+- **Segurança**: Aparentemente ao se utilizar o site, é possível constatar que, pelo fato de ser intuitivo, há poucas opções de erro. O máximo que pode ter é errar o caminho para se chegar ao destino e isso é resolvido apertando o botão de "voltar" do navegador.
+
+- **Utilidade**: Pelo fato de se ter bastante opções, há várias rotas e várias opções em cada rota, em que o usuário pode se confundir na hora de escolher a opção desejada. O produto fornece a funções adequadas, porém a gama de opções podem atrapalhar o processo de escolha do usuário.
+
+- **Learnability**: Ao utilizá-lo pela segunda vez, relatou a facilidade de chegar ao destio desejado, ou seja, a aprendizagem ao utilizar o site é boa. Porém a gama de informações disponíveis desanima em pequna parcela o usuário caso ele queira procurar outra informação ao qual ele ainda não aprendeu.
+
+- **Memorability**: Assim como na aprendizagem, ao acessar o site foi obtido em menos tempo o caminho ao qual foi percorrido no primeiro acesso, isso demonstra que em aspectos de rotas já utilizados se tem um bom resultado do usuário ao usá-lo.
+
+<p>
+Assim como as metas de usabilidade são extraídas em termo de questões específicas, também são transformadas em critérios de usabilidade. Esses são objetivos específicos que permitem avaliar se a usabilidade de um produto pode melhorar, ou não, o desempenho de uma usuário.
+</p>
+
+
 ## 2. Referências bibliográficas
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
 
@@ -33,5 +56,7 @@ As metas de usabilidade envolvem a definição da qualidade dos fatores de uso q
 
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-|0.1|09/03/2022| Adicionado introdução/objetivo metas de usabilidade | [Heitor Marques](github.com/heitormsb)||
+|0.1|09/03/2022| Adicionado metas de usabilidade | [Heitor Marques](github.com/heitormsb)||
 |0.2|10/03/2022| Adicionado os conceitos das metas | [Levi Queiroz](github.com/LeviQ27)||
+|0.3|10/03/2022| Adicionado as referências bibliográficas| [Heitor Marques](github.com/heitormsb)||
+|0.4|10/03/2022| Adicionado as aplicações das metas e a conclusão do tópico| [Levi Queiroz](github.com/LeviQ27)||
