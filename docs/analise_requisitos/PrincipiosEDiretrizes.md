@@ -1,5 +1,5 @@
 ## 1. Introdução
-Os princípios e diretrizes de um projeto definem os objetivos gerais demais alto nível e também regras gerais comumente vistas na prática. Norman (1998)
+Os princípios e diretrizes de um projeto definem os objetivos gerais de mais alto nível e também regras gerais comumente vistas na prática. Norman (1998)
 destaca a importância e a necessiadade de se projetar um sistema de forma que o 
 usuário possa aprender rapidamente e sem muito esforço. Além disso, ele cita que 
 o modelo conceitual deve ajudar na interpretação do relacionamento entre ações e
@@ -22,7 +22,7 @@ O exemplo abaixo nos mostra o que um recruta do exército precisa fazer para ter
 </div>
 <div align="center">
 <img src="../img/EB_PD03.png" width="500px">
-<h6 align = "center">Figura 3: Foto das publicaçõeso sobre regulamento de uniformes do EB .</h6>
+<h6 align = "center">Figura 3: Foto das publicações sobre regulamento de uniformes do EB .</h6>
 <h6 align="center">Fonte: <a ref="https://www.eb.mil.br">Exército Brasileiro</a></h6> 
 </div>
 Caso fosse no quartel, o recruta teria que ir num local onde estariam as revistas(representado pelo link "publicações" no site do projeto), em seguida teria que ir na seção que os regulamentos de uniforme se encontram e para concluir
@@ -30,10 +30,14 @@ escolheria o caderno ou livro que lhe daria tal informação.
 
 ### 2.2 Simplicidade nas Estruturas das Tarefas
 Norman (1998) recomenda deixar a estrutura de tarefas o mais simples possível, reduzindo ao máximo a quantidade de planejamento e resolução de problemas requerem. Para simplificar estruturas de tarefas complexas,
-Norman indica aos designers a seguir 4 abordagens tecnológicas: 
-a) manter a tarefa a mesma, mas fornecendo diversas formas de apoio para que os usuários consigam aprender e realizar a tarefa; 
-b) usar tecnologia para tornar visível o que seria invisível, melhorando o feedback e a capacidade de o usuário se manter no controle da tarefa; 
+Norman indica aos designers a seguir 4 abordagens tecnológicas:
+
+a) manter a tarefa a mesma, mas fornecendo diversas formas de apoio para que os usuários consigam aprender e realizar a tarefa;
+
+b) usar tecnologia para tornar visível o que seria invisível, melhorando o feedback e a capacidade de o usuário se manter no controle da tarefa;
+
 c) automatizar a tarefa ou parte dela, mantendo-a igual;
+
 d) modificar a natureza da tarefa
 
 ### 2.3 Consistência e Padronização
@@ -102,10 +106,13 @@ novo, e se manter informado sobre o usuário.(COOPER, 1999)
 <p align="jutify">  Conforme mostrado anteriormente, o site do exército brasileiro comete alguns erros levando em conta os princípios abordados aqui.</p> 
 
  
+## 4 Referências Bibliográficas
+Livro: Barbosa, S.;Silva, B. Interação Humano Computador.
 
-## 4 Versionamento
+## 5 Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
 |0.1|10/03/2022| Criação do documento e dos tópicos 1, 2 [2.1 - 2.4] | [Kevin Batista](https://github.com/k3vin-batista)|-|
-|0.2|10/03/2022| Criação dos tópicos [2.5 - 2.8] e [3] | [João Alves](https://github.com/Joaoaalves)|-|
+|0.2|10/03/2022| Criação dos tópicos [2.5 - 2.8] e [3] | [João Alves](https://github.com/Joaoaalves)|Kevin|
+|0.3|11/03/2022| Correções após revisão da versão 0.2 e adição das referências bibliográficas|[Kevin Batista](https://github.com/k3vin-batista)|-----|
 
