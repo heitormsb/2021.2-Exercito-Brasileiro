@@ -26,6 +26,7 @@ nav:
         - CMN-GOMS: ./analise_requisitos/Cmn_Goms.md 
       - Metas de Usabiliade: ./analise_requisitos/metasUsabilidade.md
       - Princípios e Diretrizes: ./analise_requisitos/PrincipiosEDiretrizes.md
+      - Guia de Estilo: ./analise_requisitos/GuiaEstilo.md
     - Entregáveis:
       - Entraga 1: entrega1.md
       - Entraga 2: entrega2.md
