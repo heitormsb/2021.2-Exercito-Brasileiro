@@ -33,7 +33,8 @@ nav:
           - Storyboard: ./Design_avaliacao_desenv/nivel1/storyboard.md
           - Planejamento: a.md
           - Relato dos resultados: a.md
-        # - Análise de Tarefas:
+        - Análise de Tarefas:
+          - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel1/PlanejamentoAnaliseTarefas.md
     - Entregáveis:
       - Entraga 1: entrega1.md
       - Entraga 2: entrega2.md

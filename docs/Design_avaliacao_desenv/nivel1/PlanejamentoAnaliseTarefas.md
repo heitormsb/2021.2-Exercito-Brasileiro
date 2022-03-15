@@ -1,4 +1,5 @@
 <style>body {text-align: justify}</style>
+
 ## 1. Introdução
 A avaliação de IHC é uma atividade fundamental em qualquer processo de desenolvimento que busque produzir um sistema interativo com alta qualidade de uso. É ela que orienta o avaliador a fazer um julgamento de valor sobre as qualidades de uso e identificar problemas na interação e na interface. (Barbosa e Silva, 2021)
 
