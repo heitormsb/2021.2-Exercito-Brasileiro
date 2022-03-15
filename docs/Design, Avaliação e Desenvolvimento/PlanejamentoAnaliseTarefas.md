@@ -1,4 +1,16 @@
-## 5. Termo de consentimento
+<style>body {text-align: justify}</style>
+## 1. Introdução
+A avaliação de IHC é uma atividade fundamental em qualquer processo de desenolvimento que busque produzir um sistema interativo com alta qualidade de uso. É ela que orienta o avaliador a fazer um julgamento de valor sobre as qualidades de uso e identificar problemas na interação e na interface. (Barbosa e Silva, 2021)
+
+##  Objetivo
+
+
+## Metodologia
+Serão realizadas entrevistas com o objetivo de coletar dados, essas entrevistas, pertencentes aos métodos de investigação, consistem em uma conversa roteirizada 
+por perguntas nas quais um entrevistador busca obeter informações sobre o participante. Os participantes das entrevistas serão pessoas relacionadas ao público-alvo do site avaliado.
+
+
+## Termo de consentimento
 
 
 A escolha de participar da pesquisa deve ocorrer por meio da assinatura do termo de consentimento, contendo todas as informações relevantes para o procedimento.
@@ -37,5 +49,13 @@ Entrevistado
 
 Nome e assinatura:
 </blockquote>
+
+## Referências bibliográficas
+Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
+
+## Versionamento
+|Versão|Data|Descrição|Autor|Revisor|
+|------|----|:---------:|-----|-----|
+||||||
 
 
