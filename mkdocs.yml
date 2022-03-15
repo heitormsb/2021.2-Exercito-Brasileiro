@@ -27,6 +27,13 @@ nav:
       - Metas de Usabiliade: ./analise_requisitos/metasUsabilidade.md
       - Princípios e Diretrizes: ./analise_requisitos/PrincipiosEDiretrizes.md
       - Guia de Estilo: ./analise_requisitos/GuiaEstilo.md
+    - Design, avaliação e desenvolvimento:
+      - Nível 1: 
+        - Storyboards: 
+          - Storyboard: ./Design_avaliacao_desenv/nivel1/storyboard.md
+          - Planejamento: a.md
+          - Relato dos resultados: a.md
+        # - Análise de Tarefas:
     - Entregáveis:
       - Entraga 1: entrega1.md
       - Entraga 2: entrega2.md
