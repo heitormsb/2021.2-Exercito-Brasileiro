@@ -1,7 +1,5 @@
 <style>body {text-align: justify}</style>
 
-## 1. Introdução
-A avaliação de IHC é uma atividade fundamental em qualquer processo de desenolvimento que busque produzir um sistema interativo com alta qualidade de uso. É ela que orienta o avaliador a fazer um julgamento de valor sobre as qualidades de uso e identificar problemas na interação e na interface. (Barbosa e Silva, 2021)
 
 ##  Objetivo
 A avaliação de Análise de Tarefas tem como objetivo definir, levando em conta uma entrevista com experiências reais de uso, se a aplicação fornece todo o apoio necessário para o usuário realizar suas tarefas e objetivos. Este documento tem o objetivo de definir as metodologias e perguntas que serão utilizados na entrevista sobre a utilização do site do Exército Brasileiro, em busca de obter informações da forma em que o site é utilizado e do que é necessário melhorar na visão do usuário.
@@ -9,7 +7,7 @@ A avaliação de Análise de Tarefas tem como objetivo definir, levando em conta
 
 ## Metodologia
 Serão realizadas entrevistas com o objetivo de coletar dados, essas entrevistas, pertencentes aos métodos de investigação, consistem em uma conversa roteirizada 
-por perguntas nas quais um entrevistador busca obeter informações sobre o participante. Os participantes das entrevistas serão pessoas relacionadas ao público-alvo do site avaliado.
+por perguntas nas quais um entrevistador busca obeter informações com o participante. Os participantes das entrevistas serão pessoas relacionadas ao público-alvo do site avaliado.
 
 
 ## Termo de consentimento
@@ -51,6 +49,7 @@ Entrevistado
 
 Nome e assinatura:
 </blockquote>
+
 ## Perguntas
 
 | Número | Pergunta  | Respostas Possíveis  |
@@ -82,5 +81,6 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 ## Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-| 0.1 | 16/03/2022| Adição das Perguntas e Objetivo da Análise de Tarefas | [João Alves](https://github.com/Joaoaalves)| - |
+| 0.1 | 15/03/2022| Adição da Metodologia e Termo de consentimento | [Kevin Batista](https://github.com/k3vin-batista)|-|
+| 0.2 | 16/03/2022| Adição das Perguntas e Objetivo da Análise de Tarefas | [João Alves](https://github.com/Joaoaalves)| Kevin |
 
