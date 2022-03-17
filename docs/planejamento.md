@@ -10,10 +10,10 @@
 |Entrega 2|25/02|27/02|Perfil do Usuário, Personas e Análise de Tarefas|
 |Entrega 3|10/03|12/03|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)|
 |Entrega 4|16/03|16/03|Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas|
-|Entrega 5|28/03|30/03|Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel|
-|Entrega 6|04/04|06/04|Verificação dos artefatos|
-|Entrega 7|09/04|11/04|Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|
-|Entrega Final|23/04|25/04|Entrega final do projeto|  
+|Entrega 5||30/03|Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel|
+|Entrega 6||06/04|Verificação dos artefatos|
+|Entrega 7||11/04|Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|
+|Entrega Final||25/04|Entrega final do projeto|  
 
 ### 1.2 Divisão de atividades 
 #### Entrega 1
