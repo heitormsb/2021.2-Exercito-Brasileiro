@@ -62,39 +62,36 @@ O storyboard e um tipo de prototipo de baixa fielidade, onde é uma representaç
   Para o Planejamento da avaliação dos storyboards, foi decidido a utilização do método de avaliação por investigação por questionário.
 </p>
 
-## 3.1 Objetivo
-<p>
+## 3.1 Objetivo 
 Verificar se os storyboards criados e suas respectivas situações fazem sentido ou se estão de acordo com a realidade.
 
 Perguntas a serem respondidas:
-    • Os quadros condizem com uma situação real?
-    • As ações dos atores fazem sentido?
-    • Os motivos dos atores são legítimos?
-    • As tarefas realizadas pelos atores estão claras?
-    • Os objetivos dos atores ficaram claras?
-</p>
+
+- Os quadros condizem com uma situação real?
+- As ações dos atores fazem sentido?
+- Os motivos dos atores são legítimos?
+- As tarefas realizadas pelos atores estão claras?
+- Os objetivos dos atores ficaram claras?
 
 ## 3.2 Questões práticas e éticas
-<p>
 
 **Questões Práticas**
 O formulário de perguntas será enviado para aqueles que já acessaram o site do Exército Brasileiro.
 
 **Questões Éticas**
 Antes de iniciar o questionário, os avaliados receberão uma mensagem de orientação com o Termo de Condição e uma checkbox escrito “Sim, aceito as condições”. Não será pedido algum dado que possa identificar os avaliados.
-</p>
+
 
 ## 4 Planejamento do relato dos resultados e Teste Piloto
-<p>
 Para o relato dos resultados, vai ser realizado um relatório consolidando os seguintes tópicos:
-    • Os objetivos e escopo da avaliação;
-    • A forma como a avaliação foi realizada (método de avaliação empregado);
-    • O número de participantes que realizaram o questionário;
-    • Um sumário dos dados coletados e gráficos gerenciais;
+
+- Os objetivos e escopo da avaliação;
+- A forma como a avaliação foi realizada (método de avaliação empregado);
+- O número de participantes que realizaram o questionário;
+- Um sumário dos dados coletados e gráficos gerenciais;  
 
 **Teste Piloto**
 O teste piloto vai ser realizado de forma que os artefatos da avaliação fossem revistos antes de iniciar a avaliação.
-</p>
 
 
 ## Referências bibliográficas
