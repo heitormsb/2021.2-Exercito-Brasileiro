@@ -56,6 +56,47 @@ O storyboard e um tipo de prototipo de baixa fielidade, onde é uma representaç
 ||A aplicação permite que a pessoa realize|Permite a busca de forma online e acessivel a noticias|
 ||Que necessidade o sistema atende|Notécias do meio ambiente relacionadas ao exército brasileiro|
 
+## 3 Planejamento de Avaliação
+<p>
+  A avaliação de IHC é uma etapa fundamental em qualquer processo de desenvolvimento que busque produzir um sistema iterativo com alta qualidade de uso. Com a avaliação, o avaliador tem uma orientação de como fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar erros na interface e na interação que possam prejudicar a experiência individual do usuário durante o uso do sistema. Assim, tem-se a possibilidade de corrigir problemas relacionados com a qualidade de uso antes de colocar o sistema no cotidiano dos usuários, seja uma atualização de um sistema existente ou um novo sistema.
+  Para o Planejamento da avaliação dos storyboards, foi decidido a utilização do método de avaliação por investigação por questionário.
+</p>
+
+## 3.1 Objetivo
+<p>
+Verificar se os storyboards criados e suas respectivas situações fazem sentido ou se estão de acordo com a realidade.
+
+Perguntas a serem respondidas:
+    • Os quadros condizem com uma situação real?
+    • As ações dos atores fazem sentido?
+    • Os motivos dos atores são legítimos?
+    • As tarefas realizadas pelos atores estão claras?
+    • Os objetivos dos atores ficaram claras?
+</p>
+
+## 3.2 Questões práticas e éticas
+<p>
+
+**Questões Práticas**
+O formulário de perguntas será enviado para aqueles que já acessaram o site do Exército Brasileiro.
+
+**Questões Éticas**
+Antes de iniciar o questionário, os avaliados receberão uma mensagem de orientação com o Termo de Condição e uma checkbox escrito “Sim, aceito as condições”. Não será pedido algum dado que possa identificar os avaliados.
+</p>
+
+## 4 Planejamento do relato dos resultados e Teste Piloto
+<p>
+Para o relato dos resultados, vai ser realizado um relatório consolidando os seguintes tópicos:
+    • Os objetivos e escopo da avaliação;
+    • A forma como a avaliação foi realizada (método de avaliação empregado);
+    • O número de participantes que realizaram o questionário;
+    • Um sumário dos dados coletados e gráficos gerenciais;
+
+**Teste Piloto**
+O teste piloto vai ser realizado de forma que os artefatos da avaliação fossem revistos antes de iniciar a avaliação.
+</p>
+
+
 ## Referências bibliográficas
 > BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
 
@@ -68,3 +109,4 @@ O storyboard e um tipo de prototipo de baixa fielidade, onde é uma representaç
 |------|----|:---------:|-----|-----|
 |0.1|15/03/2022|Adicionando storyboard|[Heitor Marques](github.com/heitormsb)||
 |0.2|15/03/2022|Adicionando imagens storyboard 1 e 2|[Heitor Marques](github.com/heitormsb)||
+|0.3|16/03/2022|Adicionando Planejamento de avaliação e planejamento de relato do storyboard|[Levi Queiroz](github.com/LeviQ27)||
