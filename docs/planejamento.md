@@ -9,7 +9,7 @@
 |Entrega 1|11/02|13/02|Planejamento do Projeto e Processo de Design|
 |Entrega 2|25/02|27/02|Perfil do Usuário, Personas e Análise de Tarefas|
 |Entrega 3|10/03|12/03|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)|
-|Entrega 4|14/03|16/03|Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas|
+|Entrega 4|16/03|16/03|Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas|
 |Entrega 5|28/03|30/03|Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel|
 |Entrega 6|04/04|06/04|Verificação dos artefatos|
 |Entrega 7|09/04|11/04|Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|
@@ -35,6 +35,23 @@
 | João Alves | Perfil do Usuário |24/02/2022|
 | Kevin Luis | Análise Tarefa: HTA |25/02/2022|
 | Levi Queiroz | Análise de Tarefas: KLM |27/02/2022|
+
+#### Entrega 3
+|    Integrantes    |      Atividade(s)      | Data Realizada|
+| :--------: | ------------- | ------------ |
+| Eduarda Tavares | Guia de estilos e video |11/03/2022|
+| Heitor Marques | Metas de usabilidade|11/03/2022|
+| João Alves | Princípios e Diretrizes do projeto |11/03/2022|
+| Kevin Luis | Princípios e diretrizes do projeto |11/03/2022|
+| Levi Queiroz | Metas de usabilidade |11/03/2022|
+
+#### Entrega 4
+|    Integrantes    |      Atividade(s)      | Data Realizada|
+| :--------: | ------------- | ------------ |
+| Heitor Marques | Planejamento de avaliação do storyboard |16/03/2022|
+| João Alves | Planejamento de avaliação da Análise de Tarefas - Objetivos e Perguntas da entrevista |16/03/2022|
+| Kevin Luis | Planejamento de avaliação da Análise de Tarefas - Metodologia e Termo de Consentimento|14/03/2022|
+| Levi Queiroz | Planejamento de avaliação do storyboard |16/03/2022|
 
 
 
@@ -67,3 +84,5 @@
 |0.5|11/02/2022| Adicionado as ferramentas do projeto | [João Alves](https://github.com/Joaoaalves) |[Heitor Marques](github.com/heitormsb)|
 |0.6|22/02/2022| Retirado Sites avaliados e movido pagina propria | [Heitor Marques](github.com/heitormsb)||
 |0.7|22/02/2022| Adicionado divisão de tarefas da entrega 2 | [Heitor Marques](github.com/heitormsb)||
+|0.8|16/03/2022| Adicionado divisão de tarefas da entrega 3 e 4 | [Heitor Marques](github.com/heitormsb)||
+
