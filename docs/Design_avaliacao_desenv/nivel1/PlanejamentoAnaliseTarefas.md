@@ -8,6 +8,7 @@ A avaliação de Análise de Tarefas tem como objetivo definir, levando em conta
 ## Metodologia
 Serão realizadas entrevistas com o objetivo de coletar dados, essas entrevistas, pertencentes aos métodos de investigação, consistem em uma conversa roteirizada 
 por perguntas nas quais um entrevistador busca obeter informações com o participante. Os participantes das entrevistas serão pessoas relacionadas ao público-alvo do site avaliado.
+- Devido a dificuldade de encontrar participantes disponíveis, serão utilizadas as personas do projeto. O avaliador se colocará no lugar delas e responderá o questionário.
 
 
 ## Termo de consentimento
@@ -83,4 +84,4 @@ Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; B
 |------|----|:---------:|-----|-----|
 | 0.1 | 15/03/2022| Adição da Metodologia e Termo de consentimento | [Kevin Batista](https://github.com/k3vin-batista)|-|
 | 0.2 | 16/03/2022| Adição das Perguntas e Objetivo da Análise de Tarefas | [João Alves](https://github.com/Joaoaalves)| Kevin |
-
+| 0.3 | 27/03/2022| Alteração do tópico Metodologia|  [Kevin Batista](https://github.com/k3vin-batista)|-|
