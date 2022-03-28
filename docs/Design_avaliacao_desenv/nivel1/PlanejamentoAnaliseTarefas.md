@@ -77,7 +77,7 @@ Nome e assinatura:
 |   14   |  O que você melhoraria neste site? | Discursiva |
 
 ## Referências bibliográficas
-Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
+> Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
 
 ## Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
