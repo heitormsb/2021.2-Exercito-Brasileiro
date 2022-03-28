@@ -35,6 +35,7 @@ nav:
           # - Relato dos resultados: a.md
         - Análise de Tarefas:
           - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel1/PlanejamentoAnaliseTarefas.md
+          - Entrevistas: ./Design_avaliacao_desenv/nivel1/entrevistas.md
       - Nível 2:
         - Protótipos de papel:
           - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel2/planejamento_Avaliação.md
