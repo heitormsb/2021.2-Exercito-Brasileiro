@@ -35,6 +35,11 @@ nav:
           # - Relato dos resultados: a.md
         - Análise de Tarefas:
           - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel1/PlanejamentoAnaliseTarefas.md
+      - Nível 2:
+        - Protótipos de papel:
+          - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel2/planejamento_Avaliação.md
     - Entregáveis:
-      - Entraga 1: entrega1.md
-      - Entraga 2: entrega2.md
+      - Entrega 1: entrega1.md
+      - Entrega 2: entrega2.md
+      - Entrega 3: entrega3.md
+      - Entrega 4: entrega4.md
