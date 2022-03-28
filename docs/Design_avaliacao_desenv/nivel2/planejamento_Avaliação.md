@@ -1,0 +1,35 @@
+# Planejamento da avaliação do Protótipo em papel
+
+## 1. Objetivo
+ O prototipo de papel tem como objetivo avaliar a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identifi car problemas de usabilidade antes mesmo de construir uma solução de IHC executável.
+
+## 2. Metodologia
+  Seguiremos a metodologia proposta pelo livro "INTERAÇÃO HUMANO-COMPUTADOR" de Simone Barbosa das atividades e suas respectivas tarefas do método de prototipação de papel.
+
+|Atividade|Tarefas|
+|--|--|
+|Preparação| - definir tarefas para os participantes executarem <br> - definir o perfil dos participantes e recrutá-los <br> - criar protótipos em papel da interface para executar as tarefas <br> - executar um teste-piloto|
+|Coleta de dados <br> Interpretação| - Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador <br> - Avaliador deve: <br> &nbsp; &nbsp; - listar os problemas encontrados <br> &nbsp; &nbsp; - refinar os protótipos em papel para resolver os problemas mais simples|
+|Consolidação dos resultados| - Priorizar a correção dos problemas não resolvidos <br> - Sugerir correções|
+|Relato dos resultados| - Relatar os problemas encontrados e sugestões de correção|
+
+<center width="50px">Tabela 1: Atividades do método de prototipação em papel; Livro "INTERAÇÃO HUMANO-COMPUTADOR" (Simone Barbosa) pág. 359.</center>
+
+## 3. Preparação 
+
+### 3.1 Tarefas
+
+### 3.2 Perfil dos participantes
+
+### 3.3 Protótipos em papel
+
+### 3.4 Teste-piloto
+ O objetivo do teste-piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para res-ponder a questões e objetivos do estudo.
+
+## Referências bibliográficas
+> Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário. 
+
+## Versionamento
+|Versão|Data|Descrição|Autor|Revisor|
+|------|----|:---------:|-----|-----|
+|0.1|27/03/2022|Adicionando Planejamento do storyboard|[Heitor Marques](github.com/heitormsb)||
