@@ -101,9 +101,9 @@ O teste piloto vai ser realizado de forma que os artefatos da avaliação fossem
 
 > Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em Berkeley (Coursera), 2020. 1 vídeo (5:53 min). Disponível em: [Link](https://www.youtube.com/watch?v=h2H3oIQtddU). Acesso em: 15 março 2022.
  
-
+## Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
 |0.1|15/03/2022|Adicionando storyboard|[Heitor Marques](github.com/heitormsb)||
 |0.2|15/03/2022|Adicionando imagens storyboard 1 e 2|[Heitor Marques](github.com/heitormsb)||
-|0.3|16/03/2022|Adicionando Planejamento de avaliação e planejamento de relato do storyboard|[Levi Queiroz](github.com/LeviQ27)||
+|0.3|16/03/2022|Adicionando Planejamento de avaliação e planejamento de relato do storyboard|[Levi Queiroz](github.com/LeviQ27)|[Heitor Marques](github.com/heitormsb)|
