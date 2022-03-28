@@ -12,8 +12,6 @@ Onde tem como objetivo analisar e propor melhorias ao site do [Exército Brasile
 
 Foto                                 |Integrante      |GitHub
 -------------------------------------|--------------  |------
-<img src="img/Daniel.jpeg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Daniel Coimbra  |DanielCoimbra
-<img src="img/Eduarda.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Eduarda Tavares |erteduarda
 <img src="img/Heitor.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Heitor Marques    |heitormsb
 <img src="img/Alves.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|João Alves  |Joaoaalves
 <img src="img/Kevin.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Kevin Luis   |k3vin-batista
@@ -27,3 +25,4 @@ Foto                                 |Integrante      |GitHub
 |0.1|07/02/2022| Criando Página | [Eduarda Tavares](https://github.com/etavares) |
 |0.2|13/02/2022| Atualizando informações | [Eduarda Tavares](https://github.com/etavares) |
 |0.3|24/02/2022| Atualizando sobre o projeto | [Heitor Marques](github.com/heitormsb)|
+|0.4|24/02/2022| Retirado participante que trancaram a matéria | [Heitor Marques](github.com/heitormsb)|
