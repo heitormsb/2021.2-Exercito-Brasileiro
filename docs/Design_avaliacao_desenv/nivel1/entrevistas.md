@@ -3,7 +3,7 @@
 | Número | Pergunta  | Respostas Possíveis  |
 | :-: | :-: | :-: |
 |   1    |  Qual seu nome completo? | Gustavo Veras |
-|   2    |  Qual a sua idade?       | De 18 a 35 anos |
+|   2    |  Qual a sua idade?       | 24 anos |
 |   3    |  Qual o seu nível de formação atual? | Ensino Superior Incompleto |
 |   4    |  Você já acessou o site do Exército Militar Brasileiro? | Sim |
 |   5    |  Se você fosse acessar o site do Exército Militar Brasileiro, como faria isso? | Procuraria por "Exécito Brasileiro" no google |
@@ -28,7 +28,7 @@
 | Número | Pergunta  | Respostas Possíveis  |
 | :-: | :-: | :-: |
 |   1    |  Qual seu nome completo? | André Xin |
-|   2    |  Qual a sua idade?       | Abaixo de 18 anos |
+|   2    |  Qual a sua idade?       | 17 anos |
 |   3    |  Qual o seu nível de formação atual? | Ensino Medio Incompleto |
 |   4    |  Você já acessou o site do Exército Militar Brasileiro? | Nao |
 |   5    |  Se você fosse acessar o site do Exército Militar Brasileiro, como faria isso? | Procuraria por "Site do Exécito Brasileiro" no google |
@@ -53,7 +53,7 @@
 | Número | Pergunta  | Respostas Possíveis  |
 | :-: | :-: | :-: |
 |   1    |  Qual seu nome completo? | Fernanda Fagulha |
-|   2    |  Qual a sua idade?       | Entre 35 e 50 anos |
+|   2    |  Qual a sua idade?       | 44 anos |
 |   3    |  Qual o seu nível de formação atual? | Ensino Superior Completo |
 |   4    |  Você já acessou o site do Exército Militar Brasileiro? | Sim |
 |   5    |  Se você fosse acessar o site do Exército Militar Brasileiro, como faria isso? | Procuraria por "Site do Exécito Brasileiro" no google |
