@@ -19,7 +19,7 @@
 #### Perguntas Extras (Opcionais)
 | Número | Pergunta  | Respostas Possiveis  |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Simples, sem muitos detalhes. Somente mostra o necessário |
+|   12   |  O que acha da estrutura visual do site? | Simples, mas com muitos detalhes. Somente mostra a mais do que o necessário |
 |   13   |  Em sua opinião, os menus estão bem organizados? | Sim |
 |   14   |  O que você melhoraria neste site? | Como estou estudando para ser cadete, gostaria que tivesse uma página dedicada a ESPCEX no site principal do Exército e nao em outro domínio. |
 
@@ -43,9 +43,9 @@
 #### Perguntas Extras (Opcionais)
 | Número | Pergunta  | Respostas Possiveis  |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Uma estrutura simples e até que fácil de usar na página principal, o que não se mantem em outras partes do site. |
-|   13   |  Em sua opinião, os menus estão bem organizados? | Os menus da página principal sim. Os demais necessitam de uma repaginada |
-|   14   |  O que você melhoraria neste site? | Adicionaria o significado de cada abreviação |
+|   12   |  O que acha da estrutura visual do site? | Uma estrutura simples e até que fácil de usar na página principal, o que não se mantem em outras partes do site, principalmente por terem muita informação. |
+|   13   |  Em sua opinião, os menus estão bem organizados? | Os menus da página principal sim. Os demais necessitam de uma repaginada, possuem muita informação desncessária. |
+|   14   |  O que você melhoraria neste site? | Adicionaria o significado de cada abreviação na página de publicações e de reserva pró-ativa |
 
 
 ### Persona 4 - Fernanda Fagulha
@@ -62,14 +62,14 @@
 |   8    |  Em sua opinião, como você define a experiência de uso do site? | Na primeira impressão me pareceu simples. Ao navegar pelo site existem alguns termos que nao sabia o que eram e tive que recorrer ao google para descobrir, porém a estrutura em si é simples e objetiva. |
 |   9    |  Se você precisasse acessar a informação de como ingressar na carreira militar, como faria? | Página inicial > Como Ingressar > Militar Temporário  |
 |   10   |  Caso precisasse se cadastrar na Reserva Pró Ativa, como faria isso? | Página inicial > Reserva Pró-Ativa > Cadastrar-se |
-|   11   |  Qual a sua maior dificuldade em utilizar o site do Exército Militar Brasileiro? | As siglas foram algo que me impediram de entender tudo de primeira |
-|   12   |  Tendo em vista esta entrevista, você declara o site intuitivo? | Sua estrutura é bem simples. |
+|   11   |  Qual a sua maior dificuldade em utilizar o site do Exército Militar Brasileiro? | As siglas foram algo que me impediram de entender tudo de primeira na parte da reserva pró-ativa. Na página inicial apesar de uma estrutura simples, ela contém muita informação e gera uma poluição visual considerável. |
+|   12   |  Tendo em vista esta entrevista, você declara o site intuitivo? | Sim |
 
 #### Perguntas Extras (Opcionais)
 | Número | Pergunta  | Respostas Possiveis  |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Como percebo muito nos detalhes, nao foi dificil notar que as noticias na página principal demoram muito para passarem (cerca de 15 segundos) e algumas parecem antigas, com data de mais de uma semana. |
+|   12   |  O que acha da estrutura visual do site? | Como percebo muito nos detalhes, nao foi dificil notar que as noticias na página principal demoram muito para passarem (cerca de 15 segundos) e algumas parecem antigas, com data de mais de uma semana.  Há uma sequencia de blocos de notícia na pagina principal, o ideal era ter só um.  |
 |   13   |  Em sua opinião, os menus estão bem organizados? | Sim e também são intuitivos |
-|   14   |  O que você melhoraria neste site? | Deixaria cada notícia na página principal cerca de 5 segundos e colocaria noticias atuais. Também adicionaria o significado das siglas presentes. |
+|   14   |  O que você melhoraria neste site? | Deixaria cada notícia na página principal cerca de 5 segundos e colocaria noticias atuais somente em um bloco. Também adicionaria o significado das siglas presentes na pagina de reserva pró-ativa. |
 
 
