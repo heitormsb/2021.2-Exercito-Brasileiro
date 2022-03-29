@@ -1,6 +1,6 @@
 ### Persona 1 - Gustavo Veras
 #### Perguntas 
-| Número | Pergunta  | Respostas Possíveis  |
+| Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
 |   1    |  Qual seu nome completo? | Gustavo Veras |
 |   2    |  Qual a sua idade?       | De 18 a 35 anos |
@@ -17,15 +17,15 @@
 |   12   |  Tendo em vista esta entrevista, você declara o site intuitivo? | Sim |
 
 #### Perguntas Extras (Opcionais)
-| Número | Pergunta  | Respostas Possiveis  |
+| Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Simples, mas com muitos detalhes. Somente mostra a mais do que o necessário |
+|   12   |  O que acha da estrutura visual do site? | Simples, mas com muitos detalhes. Sempre mostra a mais do que o necessário |
 |   13   |  Em sua opinião, os menus estão bem organizados? | Sim |
 |   14   |  O que você melhoraria neste site? | Como estou estudando para ser cadete, gostaria que tivesse uma página dedicada a ESPCEX no site principal do Exército e nao em outro domínio. |
 
 ### Persona 2 - André Xin
 #### Perguntas 
-| Número | Pergunta  | Respostas Possíveis  |
+| Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
 |   1    |  Qual seu nome completo? | André Xin |
 |   2    |  Qual a sua idade?       | Abaixo de 18 anos |
@@ -34,14 +34,14 @@
 |   5    |  Se você fosse acessar o site do Exército Militar Brasileiro, como faria isso? | Procuraria por "Site do Exécito Brasileiro" no google |
 |   6    |  Você já acessou alguma notícia no noticiário do site do Exército Brasileiro? | Não  |
 |   7    |  Como você faria para buscar uma informação específica no site do Exército Brasileiro? | A partir da página principal eu tentaria achar o que eu gostaria de encontrar |
-|   8    |  Em sua opinião, como você define a experiência de uso do site? | Um pouco ruim. Como eu sou uma pessoa bastante curiosa no tempo livre, gosto de entrar em sites que sejam fáceis de navegar, o que não é o caso do site do exército brasileiro. Possuem muitos termos e abreviações que eu e qualquer pessoa fora do mundo militar nao entendemos direito.   |
+|   8    |  Em sua opinião, como você define a experiência de uso do site? | Um pouco ruim. Como eu sou uma pessoa bastante curiosa no tempo livre, gosto de entrar em sites que sejam fáceis de navegar, o que não é o caso do site do exército brasileiro. Possuem termos e abreviações que eu e qualquer pessoa fora do mundo militar nao entendemos direito.   |
 |   9    |  Se você precisasse acessar a informação de como ingressar na carreira militar, como faria? | Eu entraria na página principal e buscaria por Como Ingressar. Por curiosidade eu entrei no site aogra e vi que essa informação nao é de difícil acesso, ela se encontra na barra lateral esquerda. Cliquei nela e consegui visualizar as opções de como ingressar |
 |   10   |  Caso precisasse se cadastrar na Reserva Pró Ativa, como faria isso? | Da mesma forma como buscaria pela informação de como ingressar, nesse caso aconteceu a mesma coisa. Achei de primeira na barra lateral esquerda e acessei a página sobre reserva pró-ativa. |
-|   11   |  Qual a sua maior dificuldade em utilizar o site do Exército Militar Brasileiro? | Os termos abreviados. Um exemplo é até na tarefa de cadastor na reserva pró-ativa, lá existem termos abreviados que são bastante incomuns para pessoas fora do mundo militar. |
+|   11   |  Qual a sua maior dificuldade em utilizar o site do Exército Militar Brasileiro? | Os termos abreviados. Um exemplo é até na tarefa de se cadastrar na reserva pró-ativa, lá existem termos abreviados que são bastante incomuns para pessoas fora do mundo militar. |
 |   12   |  Tendo em vista esta entrevista, você declara o site intuitivo? | Não |
 
 #### Perguntas Extras (Opcionais)
-| Número | Pergunta  | Respostas Possiveis  |
+| Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
 |   12   |  O que acha da estrutura visual do site? | Uma estrutura simples e até que fácil de usar na página principal, o que não se mantem em outras partes do site, principalmente por terem muita informação. |
 |   13   |  Em sua opinião, os menus estão bem organizados? | Os menus da página principal sim. Os demais necessitam de uma repaginada, possuem muita informação desncessária. |
@@ -50,7 +50,7 @@
 
 ### Persona 4 - Fernanda Fagulha
 #### Perguntas 
-| Número | Pergunta  | Respostas Possíveis  |
+| Número | Pergunta  | Respostas |
 | :-: | :-: | :-: |
 |   1    |  Qual seu nome completo? | Fernanda Fagulha |
 |   2    |  Qual a sua idade?       | Entre 35 e 50 anos |
@@ -66,7 +66,7 @@
 |   12   |  Tendo em vista esta entrevista, você declara o site intuitivo? | Sim |
 
 #### Perguntas Extras (Opcionais)
-| Número | Pergunta  | Respostas Possiveis  |
+| Número | Pergunta  | Respostas |
 | :-: | :-: | :-: |
 |   12   |  O que acha da estrutura visual do site? | Como percebo muito nos detalhes, nao foi dificil notar que as noticias na página principal demoram muito para passarem (cerca de 15 segundos) e algumas parecem antigas, com data de mais de uma semana.  Há uma sequencia de blocos de notícia na pagina principal, o ideal era ter só um.  |
 |   13   |  Em sua opinião, os menus estão bem organizados? | Sim e também são intuitivos |
