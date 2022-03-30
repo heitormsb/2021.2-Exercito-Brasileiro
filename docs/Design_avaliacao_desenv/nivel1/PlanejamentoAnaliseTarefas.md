@@ -72,9 +72,9 @@ Nome e assinatura:
 ### Perguntas Extras (Opcionais)
 | Número | Pergunta  | Respostas Possiveis  |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Discursiva |
-|   13   |  Em sua opinião, os menus estão bem organizados? | Discursiva |
-|   14   |  O que você melhoraria neste site? | Discursiva |
+|   13   |  O que acha da estrutura visual do site? | Discursiva |
+|   14   |  Em sua opinião, os menus estão bem organizados? | Discursiva |
+|   15   |  O que você melhoraria neste site? | Discursiva |
 
 ## Referências bibliográficas
 > Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
