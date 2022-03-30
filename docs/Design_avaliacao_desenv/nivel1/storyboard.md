@@ -144,3 +144,4 @@ Foi analisado um total de 8 respostas e os dados foram apresentados em forma de 
 |0.1|15/03/2022|Adicionando storyboard|[Heitor Marques](github.com/heitormsb)|[Kevin Batista](https://github.com/k3vin-batista)|
 |0.2|15/03/2022|Adicionando imagens storyboard 1 e 2|[Heitor Marques](github.com/heitormsb)|[Kevin Batista](https://github.com/k3vin-batista)|
 |0.3|16/03/2022|Adicionando Planejamento de avaliação e planejamento de relato do storyboard|[Levi Queiroz](github.com/LeviQ27)|[Heitor Marques](github.com/heitormsb)|
+|0.4|30/03/2022|Adicionando Relato da avaliação dos Storyboards|[Levi Queiroz](github.com/LeviQ27)||
