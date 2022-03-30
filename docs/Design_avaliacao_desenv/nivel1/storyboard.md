@@ -104,6 +104,6 @@ O teste piloto vai ser realizado de forma que os artefatos da avaliação fossem
 ## Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-|0.1|15/03/2022|Adicionando storyboard|[Heitor Marques](github.com/heitormsb)||
-|0.2|15/03/2022|Adicionando imagens storyboard 1 e 2|[Heitor Marques](github.com/heitormsb)||
+|0.1|15/03/2022|Adicionando storyboard|[Heitor Marques](github.com/heitormsb)|[Kevin Batista](https://github.com/k3vin-batista)|
+|0.2|15/03/2022|Adicionando imagens storyboard 1 e 2|[Heitor Marques](github.com/heitormsb)|[Kevin Batista](https://github.com/k3vin-batista)|
 |0.3|16/03/2022|Adicionando Planejamento de avaliação e planejamento de relato do storyboard|[Levi Queiroz](github.com/LeviQ27)|[Heitor Marques](github.com/heitormsb)|
