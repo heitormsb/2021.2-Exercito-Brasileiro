@@ -1,7 +1,7 @@
 # Planejamento da avaliação do Protótipo em papel
 
 ## 1. Objetivo
- O prototipo de papel tem como objetivo avaliar a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identifi car problemas de usabilidade antes mesmo de construir uma solução de IHC executável.
+ O prototipo de papel tem como objetivo avaliar a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade antes mesmo de construir uma solução de IHC executável.
 
 ## 2. Metodologia
   Seguiremos a metodologia proposta pelo livro "INTERAÇÃO HUMANO-COMPUTADOR" de Simone Barbosa das atividades e suas respectivas tarefas do método de prototipação de papel.
@@ -33,11 +33,21 @@
 ### 3.4 Teste-piloto
  O objetivo do teste-piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
 
+## 4. Planejamento do relato dos resultados
+Para o relato dos resultados, será feito um relatório consolidando os seguintes tópicos:
+
+- Os objetivos e escopo da avaliação;
+- A forma como a avaliação foi realizada (método de avaliação empregado);
+- Um sumário dos dados coletados;
+- Relatar os problemas encontrados e priorizar a correção de erros.
+
+
 ## Referências bibliográficas
 > Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário. 
 
 ## Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-|0.1|27/03/2022|Adicionando Planejamento do storyboard|[Heitor Marques](github.com/heitormsb)||
-|0.2|29/03/2022|Adicionando Protótipos em papel|[Heitor Marques](github.com/heitormsb)||
+|0.1|27/03/2022|Adicionando Planejamento do storyboard|[Heitor Marques](github.com/heitormsb)|[Kevin Batista](https://github.com/k3vin-batista)|
+|0.2|29/03/2022|Adicionando Protótipos em papel|[Heitor Marques](github.com/heitormsb)|[Kevin Batista](https://github.com/k3vin-batista)|
+|0.3|29/03/2022|Adicionando planejamento do relato dos resultados|[Kevin Batista](https://github.com/k3vin-batista)|-|
