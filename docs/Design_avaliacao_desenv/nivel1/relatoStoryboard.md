@@ -32,11 +32,11 @@ Foi analisado um total de 8 respostas e os dados foram apresentados em forma de 
 </center>
 
 - **Storyboard: Acessar o regulamento de uniformes do exército**
-<img src="../nivel1/img/Grafico_StoryBoard1_IHC.png" style="width: 80%">
+<img src="../nivel1/img/Grafico_StoryBoard1_IHC.png">
 <small><center>Gráfico 1 - Acessar o regulamento de uniformes do exército</center>
 
 - **Storyboard: Acessar pesquisa do exército brasileiro relacionada a Amazônia**
-<img src="../nivel1/img/Grafico_StoryBoard2_IHC.png" style="width: 80%">
+<img src="../nivel1/img/Grafico_StoryBoard2_IHC.png">
 <small><center>Gráfico 2 - Acessar pesquisa do exército brasileiro relacionada a Amazônia</center>
 
 <br>
@@ -56,3 +56,4 @@ Foi analisado um total de 8 respostas e os dados foram apresentados em forma de 
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
 |0.1|30/03/2022|Alterando Relato da avaliação dos Storyboards para outro arquivo .md|[Levi Queiroz](github.com/LeviQ27)||
+|0.2|31/03/2022|Alterando caminho do video e trabalhando com o tamanho da imagem|[Levi Queiroz](github.com/LeviQ27)||
