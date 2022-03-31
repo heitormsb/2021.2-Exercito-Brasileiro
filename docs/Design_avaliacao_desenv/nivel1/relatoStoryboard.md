@@ -14,24 +14,29 @@ Ao qual foram respondidos através de um formulário on-line feito na plataforma
 
 Foi realizado um teste piloto para ver se as funcionalidades do formulário estavam funcionandos de forma satisfatória, o que foi confirmado e apresentado no vídeo a seguir.
 
-<video>
-  <source src="https://drive.google.com/file/d/1z5g7G4dG17ySFLIXTTFTpfFmTYcC5yZe/view?usp=sharing" type="video/mp4">
-</video>
+
+<center>
+
+[![Teste Piloto](https://res.cloudinary.com/marcomontalbano/image/upload/v1648695309/video_to_markdown/images/google-drive--1z5g7G4dG17ySFLIXTTFTpfFmTYcC5yZe-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1z5g7G4dG17ySFLIXTTFTpfFmTYcC5yZe/view?usp=sharing "Teste Piloto")
+
+</center>
 
 Foi analisado um total de 8 respostas e os dados foram apresentados em forma de gráfico, segue o vídeo de como foram extraídos os dados e os gráficos:
 
 > Obs.: Na hora de gravar o vídeo, ainda tinham apenas 5 respostas.
 
-<video>
-  <source src="https://drive.google.com/file/d/1zOOfXrpQCYFqheykNWPbRRkwOoyBrSsC/view?usp=sharing" type="video/mp4">
-</video>
+<center>
+
+[![Analise de Dados](https://res.cloudinary.com/marcomontalbano/image/upload/v1648696233/video_to_markdown/images/google-drive--1zOOfXrpQCYFqheykNWPbRRkwOoyBrSsC-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1zOOfXrpQCYFqheykNWPbRRkwOoyBrSsC/view?usp=sharing "Analise de Dados")
+
+</center>
 
 - **Storyboard: Acessar o regulamento de uniformes do exército**
-<img src="../nivel1/img/Grafico_StoryBoard1_IHC.png">
+<img src="../nivel1/img/Grafico_StoryBoard1_IHC.png" style="width: 80%">
 <small><center>Gráfico 1 - Acessar o regulamento de uniformes do exército</center>
 
 - **Storyboard: Acessar pesquisa do exército brasileiro relacionada a Amazônia**
-<img src="../nivel1/img/Grafico_StoryBoard2_IHC.png">
+<img src="../nivel1/img/Grafico_StoryBoard2_IHC.png" style="width: 80%">
 <small><center>Gráfico 2 - Acessar pesquisa do exército brasileiro relacionada a Amazônia</center>
 
 <br>
