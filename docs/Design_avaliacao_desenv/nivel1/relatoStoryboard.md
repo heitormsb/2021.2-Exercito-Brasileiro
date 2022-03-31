@@ -32,11 +32,11 @@ Foi analisado um total de 8 respostas e os dados foram apresentados em forma de 
 </center>
 
 - **Storyboard: Acessar o regulamento de uniformes do exército**
-<img src="../nivel1/img/Grafico_StoryBoard1_IHC.png">
+<img src="../img/Grafico_StoryBoard1_IHC.png">
 <small><center>Gráfico 1 - Acessar o regulamento de uniformes do exército</center>
 
 - **Storyboard: Acessar pesquisa do exército brasileiro relacionada a Amazônia**
-<img src="../nivel1/img/Grafico_StoryBoard2_IHC.png">
+<img src="../img/Grafico_StoryBoard2_IHC.png">
 <small><center>Gráfico 2 - Acessar pesquisa do exército brasileiro relacionada a Amazônia</center>
 
 <br>
