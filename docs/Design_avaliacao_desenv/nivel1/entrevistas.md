@@ -26,6 +26,8 @@
 |   14   |  O que você melhoraria neste site? | Como estou estudando para ser cadete, gostaria que tivesse uma página dedicada a ESPCEX no site principal do Exército e nao em outro domínio. |
 
 ### Persona 2 - André Xin
+#### Link para entrevista
+- https://drive.google.com/file/d/1aGt8nA2Lcqi7BYzrGSANda3tyJdf26k5/view?usp=sharing
 #### Perguntas 
 | Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
@@ -45,12 +47,14 @@
 #### Perguntas Extras (Opcionais)
 | Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Uma estrutura simples e até que fácil de usar na página principal, o que não se mantem em outras partes do site, principalmente por terem muita informação. |
-|   13   |  Em sua opinião, os menus estão bem organizados? | Os menus da página principal sim. Os demais necessitam de uma repaginada, possuem muita informação desncessária. |
-|   14   |  O que você melhoraria neste site? | Adicionaria o significado de cada abreviação na página de publicações e de reserva pró-ativa |
+|   13   |  O que acha da estrutura visual do site? | Uma estrutura simples e até que fácil de usar na página principal, o que não se mantem em outras partes do site, principalmente por terem muita informação. |
+|   14   |  Em sua opinião, os menus estão bem organizados? | Os menus da página principal sim. Os demais necessitam de uma repaginada, possuem muita informação desncessária. |
+|   15   |  O que você melhoraria neste site? | Adicionaria o significado de cada abreviação na página de publicações e de reserva pró-ativa |
 
 
 ### Persona 4 - Fernanda Fagulha
+#### Link para entrevista
+- https://drive.google.com/file/d/1WvxAbngcyKjOyurpZjdRwfN9aTguQsai/view?usp=sharing
 #### Perguntas 
 | Número | Pergunta  | Respostas |
 | :-: | :-: | :-: |
@@ -70,8 +74,8 @@
 #### Perguntas Extras (Opcionais)
 | Número | Pergunta  | Respostas |
 | :-: | :-: | :-: |
-|   12   |  O que acha da estrutura visual do site? | Como percebo muito nos detalhes, nao foi dificil notar que as noticias na página principal demoram muito para passarem (cerca de 15 segundos) e algumas parecem antigas, com data de mais de uma semana.  Há uma sequencia de blocos de notícia na pagina principal, o ideal era ter só um.  |
-|   13   |  Em sua opinião, os menus estão bem organizados? | Sim e também são intuitivos |
-|   14   |  O que você melhoraria neste site? | Deixaria cada notícia na página principal cerca de 5 segundos e colocaria noticias atuais somente em um bloco. Também adicionaria o significado das siglas presentes na pagina de reserva pró-ativa. |
+|   13   |  O que acha da estrutura visual do site? | Como percebo muito nos detalhes, nao foi dificil notar que as noticias na página principal demoram muito para passarem (cerca de 15 segundos) e algumas parecem antigas, com data de mais de uma semana.  Há uma sequencia de blocos de notícia na pagina principal, o ideal era ter só um.  |
+|   14   |  Em sua opinião, os menus estão bem organizados? | Sim e também são intuitivos |
+|   15   |  O que você melhoraria neste site? | Deixaria cada notícia na página principal cerca de 5 segundos e colocaria noticias atuais somente em um bloco. Também adicionaria o significado das siglas presentes na pagina de reserva pró-ativa. |
 
 
