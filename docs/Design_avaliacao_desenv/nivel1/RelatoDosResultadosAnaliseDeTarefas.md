@@ -77,7 +77,7 @@ também a adição do significados das siglas da página de publicações e de r
 ## Versionamento
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
-| 0.1 | 29/03/2022| Criação do documento | [Kevin Batista](https://github.com/k3vin-batista)|-|
+| 0.1 | 29/03/2022| Criação do documento | [Kevin Batista](https://github.com/k3vin-batista)|[Heitor Marques](github.com/heitormsb)|
 
 
 
