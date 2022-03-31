@@ -1,4 +1,6 @@
 ### Persona 1 - Gustavo Veras
+#### Link da entrevista:
+- https://drive.google.com/file/d/1PGmBJcPQeAJcrLSCGY5JqUW9w-Z68Amu/view?usp=sharing
 #### Perguntas 
 | Número | Pergunta  | Respostas  |
 | :-: | :-: | :-: |
