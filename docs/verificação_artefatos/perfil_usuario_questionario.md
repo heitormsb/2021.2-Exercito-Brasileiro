@@ -25,4 +25,4 @@ Após a verificação com o checklist podemos concluir que o documento do questi
 ## Versões
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 04/04/2022 | Complemento aos resultados e definição do perfil do usuario |[Heitor Marques](github.com/heitormsb) |
+| 1.0 | 04/04/2022 | Verificação do perfil do usuario e questionário|[Heitor Marques](github.com/heitormsb) |
