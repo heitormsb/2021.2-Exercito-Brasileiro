@@ -40,6 +40,9 @@ nav:
       - Nível 2:
         - Protótipos de papel:
           - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel2/planejamento_Avaliação.md
+    - Verificação dos artefatos:
+      - Introdução: ./verificação_artefatos/introducao_verificacao.md
+      - Perfil do Usuário: ./verificação_artefatos/perfil_usuario_questionario.md
     - Entregáveis:
       - Entrega 1: entrega1.md
       - Entrega 2: entrega2.md
