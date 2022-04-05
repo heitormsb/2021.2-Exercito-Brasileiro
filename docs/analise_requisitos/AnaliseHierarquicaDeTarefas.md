@@ -1,6 +1,6 @@
 <style>body {text-align: justify}</style>
 
-# Anélise Hierérquica De Tarefas
+# Análise Hierérquica De Tarefas
 ## Definição
 O objetivo da Análise Hierárquica de Tarefas, em inglês HTA – (Hierarchical Task Analysis), é entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho, de acordo com Annett e Duncan.
 A HTA ajuda a relacionar _o que_ as pessoas fazem, _por que_ o fazem e _quais_ as consequências caso nao o façam corretamente.(BARBOSA e SILVA, 2010)
@@ -15,7 +15,7 @@ A Análise Hierárquica de Tarefas será usada por trazer uma visão genérica d
 - **Plano**: Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.  
 - **Operação**: é especificada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).
 
-Aplicando AHT relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01 e a HTA02.
+Aplicando HTA relacionada as ações do usuário no site do Exército Brasileiro, foi desenvolvida a HTA01 e a HTA02.
 ### HTA01
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro/main/docs/img/hta01.png)
 
