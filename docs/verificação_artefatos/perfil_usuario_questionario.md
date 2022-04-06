@@ -13,11 +13,10 @@ Inspetor: Heitor Marques<br>
 |2|Existe uma introdução ou definição do artefato?|Sim|
 |3|Existe alguma imagem quabrada?|Não|
 |4|O documento segue o padrão da WIKI?|Sim|
-|5|O formulário possui erros gramaticais?|Não|
-|6|As perguntas são claras e objetivas?|Sim|
-|7|O questionário contém perguntas para poder definir o perfil de usuário?|Sim|
-|8|Foi possivel definir o perfil de usuário com o questionário?|Sim|
-|9|O Documento possui versionamento?|Sim|
+|5|As perguntas são claras e objetivas?|Sim|
+|6|O questionário contém perguntas para poder definir o perfil de usuário?|Sim|
+|7|Foi possivel definir o perfil de usuário com o questionário?|Sim|
+|8|O Documento possui versionamento?|Sim|
 
 ## Resultados
 Após a verificação com o checklist podemos concluir que o documento do questionário e perfil do usuário estão de acordo com os padrões estabelecidos e tem resultados satisfatórios.
