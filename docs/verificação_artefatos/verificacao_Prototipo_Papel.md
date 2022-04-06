@@ -16,6 +16,7 @@ Inspetor: Levi Queiroz<br>
 |5|O texto está justificado?|Sim|
 |6|A metodologia foi bem apresentada?|Sim|
 |7|A tabela foi referenciada?|Sim|
+|8|O documento tem versionamento?|Sim|
 
 
 
@@ -26,3 +27,4 @@ Após a verificação com o checklist podemos concluir que o documento de Protó
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/04/2022 | Verificação do Protótipo de Papel |[Levi Queiroz](github.com/LeviQ27) |
+| 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |

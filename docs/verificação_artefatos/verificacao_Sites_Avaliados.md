@@ -18,6 +18,7 @@ Inspetor: Levi Queiroz<br>
 |7|Os links funcionam?|Sim|
 |8|A imagem está legível?|Não|
 |9|Ficou claro a escolha do site?|Sim|
+|10|O documento tem versionamento?|Sim|
 
 
 ## Resultados
@@ -27,3 +28,4 @@ Após a verificação com o checklist podemos concluir que o documento de Sites 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/04/2022 | Verificação de Sites Avaliados |[Levi Queiroz](github.com/LeviQ27) |
+| 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |

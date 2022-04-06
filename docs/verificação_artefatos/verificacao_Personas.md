@@ -17,8 +17,9 @@ Inspetor: Levi Queiroz<br>
 |6|A imagem está quebrada?|Não|
 |7|As imagens tem referências?|Sim|
 |8|Deu para identificar cada tipo de persona?|Sim|
-|8|Deu para identificar cada expectativa?|Sim|
-|8|As Expectativa foram cumpridas?|Sim|
+|9|Deu para identificar cada expectativa?|Sim|
+|10|As Expectativa foram cumpridas?|Sim|
+|11|O documento tem versionamento?|Sim|
 
 ## Resultados
 Após a verificação com o checklist podemos concluir que o documento de Persona está de acordo com os padrões estabelecidos e tem resultados satisfatórios.
@@ -27,3 +28,4 @@ Após a verificação com o checklist podemos concluir que o documento de Person
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/04/2022 | Verificação de Personas |[Levi Queiroz](github.com/LeviQ27) |
+| 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |

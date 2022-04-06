@@ -18,6 +18,7 @@ Inspetor: Levi Queiroz<br>
 |7|O protótipo está entendível e fácil de visualização?|Sim|
 |8|O objetivo do Teste-piloto ficou clara?|Sim|
 |9|Os tópicos avaliativos do Planejamento do Relato estão claros?|Sim|
+|10|O documento tem versionamento?|Sim|
 
 
 
@@ -29,3 +30,4 @@ Após a verificação com o checklist podemos concluir que o documento de Protó
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/04/2022 | Verificação do Planejamento da avaliação do Protótipo em papel |[Levi Queiroz](github.com/LeviQ27) |
+| 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |
