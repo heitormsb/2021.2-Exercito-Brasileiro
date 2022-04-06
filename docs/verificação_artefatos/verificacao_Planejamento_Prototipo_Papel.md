@@ -11,7 +11,7 @@ Inspetor: Levi Queiroz<br>
 |--|--|--|
 |1|O documento possui erros gramaticais?|Sim|
 |2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
+|3|Existe alguma imagem quebrada?|Não|
 |4|O documento segue o padrão da WIKI?|Sim|
 |5|O texto está justificado?|Sim|
 |6|As tarefas estão claras?|Sim|
@@ -31,3 +31,4 @@ Após a verificação com o checklist podemos concluir que o documento de Protó
 |--|--|--|--|
 | 1.0 | 06/04/2022 | Verificação do Planejamento da avaliação do Protótipo em papel |[Levi Queiroz](github.com/LeviQ27) |
 | 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |
+| 1.2 | 06/04/2022 | Consertando Tabela e Erros Gramaticais |[Levi Queiroz](github.com/LeviQ27) |

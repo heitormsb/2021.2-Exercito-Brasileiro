@@ -11,14 +11,13 @@ Inspetor: Levi Queiroz<br>
 |--|--|--|
 |1|O documento possui erros gramaticais?|Não|
 |2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
+|3|Existe alguma imagem quebrada?|Não|
 |4|O documento segue o padrão da WIKI?|Sim|
 |5|O texto está justificado?|Não|
-|6|A imagem está quebrada?|Não|
-|7|Os links funcionam?|Sim|
-|8|A imagem está legível?|Não|
-|9|Ficou claro a escolha do site?|Sim|
-|10|O documento tem versionamento?|Sim|
+|6|Os links funcionam?|Sim|
+|7|A imagem está legível?|Não|
+|8|Ficou claro a escolha do site?|Sim|
+|9|O documento tem versionamento?|Sim|
 
 
 ## Resultados
@@ -29,3 +28,4 @@ Após a verificação com o checklist podemos concluir que o documento de Sites 
 |--|--|--|--|
 | 1.0 | 06/04/2022 | Verificação de Sites Avaliados |[Levi Queiroz](github.com/LeviQ27) |
 | 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |
+| 1.2 | 06/04/2022 | Consertando Tabela e Erros Gramaticais |[Levi Queiroz](github.com/LeviQ27) |
