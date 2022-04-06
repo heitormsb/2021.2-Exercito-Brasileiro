@@ -43,7 +43,10 @@ nav:
     - Verificação dos artefatos:
       - Introdução: ./verificação_artefatos/introducao_verificacao.md
       - Perfil do Usuário: ./verificação_artefatos/perfil_usuario_questionario.md
-      - Analise de Tarefas: ./verificação_artefatos/HTA_verificação.md
+      - Analise de Tarefas: ./verificação_artefatos/verificação_Analise_Tarefas.md
+      - Guia de Estilos: ./verificação_artefatos/GuiaDeEstilos_verificacao.md
+      - Planejamento da Avaliação das Análises de Tarefas: ./verificação_artefatos/verificação_plan_avaliação_analise_tarefas.md
+      - Princípios e Diretrizes: ./verificação_artefatos/verificação_Princípios_diretrizes_do_projeto.md
     - Entregáveis:
       - Entrega 1: entrega1.md
       - Entrega 2: entrega2.md
