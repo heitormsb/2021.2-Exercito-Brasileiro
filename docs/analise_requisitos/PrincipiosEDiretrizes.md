@@ -1,9 +1,6 @@
 ## 1. Introdução
-Os princípios e diretrizes de um projeto definem os objetivos gerais de mais alto nível e também regras gerais comumente vistas na prática. Norman (1998)
-destaca a importância e a necessidade de se projetar um sistema de forma que o 
-usuário possa aprender rapidamente e sem muito esforço. Além disso, ele cita que 
-o modelo conceitual deve ajudar na interpretação do relacionamento entre ações e
-informações apresentadas pelo sistema.
+Os princípios e diretrizes (definidos na fase de análise de requisitos do ciclo de vida de mayhew) de um projeto definem os objetivos gerais de mais alto nível e também regras gerais comumente vistas na prática. Norman (1998) destaca a importância e a necessidade de se projetar um sistema de forma que o usuário possa aprender rapidamente e sem muito esforço. Além disso, ele cita que 
+o modelo conceitual deve ajudar na interpretação do relacionamento entre ações e informações apresentadas pelo sistema.
 Esse documento visa passar pelos princípios e diretrizes mais utilizados em IHC.
 
 ## 2. Princípios e Diretrizes Gerais
