@@ -1,4 +1,4 @@
-# Verificação da Análise de Tarefas
+# Verificação do Guia de Estilos
 
 ## Dados do Documento
 Documento avaliado: [Guia de Estilos](../analise_requisitos/GuiaEstilo.md). <br>
