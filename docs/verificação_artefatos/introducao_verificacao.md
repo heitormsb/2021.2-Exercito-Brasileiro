@@ -1,5 +1,5 @@
 # Verificação dos Artefatos
-## 1. introdução
+## Introdução
 
 A verificação é um método que ajuda assegurar a qualidade dos produtos de software. Todos os artefatos produzidos ao longo do projeto estão suscetíveis a erros, que podem ser detectados através da verificação e assim corrigidos. 
 
