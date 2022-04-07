@@ -15,7 +15,7 @@ Inspetor: Heitor Marques<br>
 |4|O documento segue o padrão da WIKI?|Sim|
 |5|O documento apresenta uma justificativa para o motivo de escolha da análise de tarefa(HTA)?|Sim|
 |6|Os diagramas HTA estão de acordos com o livro Barbosa e Silva?|Sim|
-|7|São apresentadas a tabela de Objetivos/Operações	| Problemas/Recomendações?|Sim|
+|7|São apresentadas a tabela de Objetivos/Operações	e Problemas/Recomendações?|Sim|
 |8|É apresentado outros métodos de análise de tarefas(CTT, KLM, CMN-GOMS)?|Sim|
 |9|O Documento possui versionamento?|Sim|
 
