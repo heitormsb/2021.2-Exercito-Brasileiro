@@ -42,14 +42,23 @@ nav:
           - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel2/planejamento_Avaliação.md
     - Verificação dos artefatos:
       - Introdução: ./verificação_artefatos/introducao_verificacao.md
+      - Sites avaliados: ./verificação_artefatos/verificacao_Sites_Avaliados.md
       - Perfil do Usuário: ./verificação_artefatos/perfil_usuario_questionario.md
+      - Personas: ./verificação_artefatos/verificacao_Personas.md
       - Analise de Tarefas: ./verificação_artefatos/verificação_Analise_Tarefas.md
+      - Metas de Usabilidade: ./verificação_artefatos/verificacao_metas_de_usabilidade.md
+      - Princípios e Diretrizes: ./verificação_artefatos/verificação_Princípios_diretrizes_do_projeto.md
       - Guia de Estilos: ./verificação_artefatos/GuiaDeEstilos_verificacao.md
       - Planejamento da Avaliação das Análises de Tarefas: ./verificação_artefatos/verificação_plan_avaliação_analise_tarefas.md
-      - Princípios e Diretrizes: ./verificação_artefatos/verificação_Princípios_diretrizes_do_projeto.md
+      - Planejamento da Avaliação dos Storyboards: ./verificação_artefatos/verificacao_plan_aval_storyboard.md
+      - Storyboards: ./verificação_artefatos/verificacao_storyboard.md
+      - Planejamento do Protótipo de papel: ./verificação_artefatos/verificacao_Planejamento_Prototipo_Papel.md
+      - Protótipo de papel: ./verificação_artefatos/verificacao_Prototipo_Papel.md
+
     - Entregáveis:
       - Entrega 1: entrega1.md
       - Entrega 2: entrega2.md
       - Entrega 3: entrega3.md
       - Entrega 4: entrega4.md
       - Entrega 5: entrega5.md
+      - Entrega 6: entrega6.md
