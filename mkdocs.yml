@@ -40,6 +40,7 @@ nav:
       - Nível 2:
         - Protótipos de papel:
           - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel2/planejamento_Avaliação.md
+          - Relato dos resultados: ./Design_avaliacao_desenv/nivel2/relato_resultado_prototipo_papel.md
     - Verificação dos artefatos:
       - Introdução: ./verificação_artefatos/introducao_verificacao.md
       - Sites avaliados: ./verificação_artefatos/verificacao_Sites_Avaliados.md
