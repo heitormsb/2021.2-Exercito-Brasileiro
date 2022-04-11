@@ -33,7 +33,24 @@
 ### 3.4 Teste-piloto
  O objetivo do teste-piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
 
-## 4. Planejamento do relato dos resultados
+## 4. Termo de consentimento
+
+A escolha de participar da pesquisa deve ocorrer por meio da assinatura do termo de consentimento, contendo todas as informações relevantes para o procedimento.
+<blockquote>
+Termo de consentimento<br><br>
+
+Somos um grupo da disciplina Interação Humano Computador da Universidade de Brasília, que está participando do projeto da reformulação do site do Exército Brasileiro. Nessa etapa do projeto, será realizada uma entrevista de maneira remota onde sera coletado e tera fonecendo o direito de imagem e de voz. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa: <br>
+- Os dados coletados durante a entrevista destinam-se ao estudo da disciplina Interação Humano-Computador, mais especificamente às atividades de análise e desenvolvimento do site do Exército Brasileiro. <br>
+- A divulgação dos resultados da pesquisa será feita em nosso site, https://github.com/Interacao-Humano-Computador/2021.2-Exercito-Brasileiro. <br>
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa. <br>
+- A pesquisa pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade. <br><br>
+
+Diante das informações, gostaríamos que você marcasse sua disponibilidade para a entrevista: <br>
+Dou o meu consentimento para a realização Local:_____ Data:_____ 
+Entrevistador:_____ Nome:_____ e assinatura:_____ 
+</blockquote>
+
+## 5. Planejamento do relato dos resultados
 Para o relato dos resultados, será feito um relatório consolidando os seguintes tópicos:
 
 - Os objetivos e escopo da avaliação;
