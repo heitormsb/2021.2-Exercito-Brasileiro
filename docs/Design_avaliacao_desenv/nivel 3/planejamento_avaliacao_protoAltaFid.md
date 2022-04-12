@@ -21,6 +21,15 @@ A metodologia que será utilizada para coletar os dados e visualizar se o protó
 
 O termo de condição e o link do protótipo serão enviados em meio ao chat para o entrevistado na plataforma do Microsoft Teams.
 
+## 4 Relato dos resultados
+Nesta atividade será informado aos participantes os seguintes tópicos:
+
+- Objetivos da avaliação;
+- Descrição do método de prototipação de papel;
+- Número e perfil de avaliadores e participantes;
+- As tarefas executadas pelos participantes
+- Problemas enfrentados
+
 ## Referências bibliográficas
 > Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário. 
 
