@@ -6,10 +6,6 @@
 
 O projeto está dividido em 8 entregas e após cada entrega o grupo se reunirá para uma reunião de planejamento. Essa reunião tem como objetivo divivir as tarefas para a entrega seguinte que deverá ser concluída e gravada até 2 dias antes da data final estabelecida no plano da disciplina.
 
-## Criação de issues
-
-De acordo com a entrega, serão divididas tarefas para os integrantes. Para cada tarefa deverá ser criada uma issue no github do projeto e essa issue só poderá ser fechada após sua conclusão. Caso algum integrante sinta dificuldade para concluir, ele deverá comunicar ao grupo para que todos o ajudem. 
-
 ## Versionamento da documentação
 Todos os documentos feitos durante o projeto deverão ter o versionamento. Nele deverão ter os campos: Data da modificação, autor da modificação, resumo da modificação e código da modificação.
     
