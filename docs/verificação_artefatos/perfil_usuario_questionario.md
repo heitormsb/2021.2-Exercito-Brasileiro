@@ -9,13 +9,13 @@ Inspetor: Heitor Marques<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
-|4|O documento segue o padrão da WIKI?|Sim|
-|5|As perguntas são claras e objetivas?|Sim|
-|6|O questionário contém perguntas para poder definir o perfil de usuário?|Sim|
-|7|Foi possivel definir o perfil de usuário com o questionário?|Sim|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|As perguntas são claras e objetivas?|Sim|
+|4|O questionário apresenta os dados demograficos do usuário?|Sim|
+|5|O questionário apresenta o grau de educação do usuário?|Sim|
+|6|O questionário apresenta a experiência com computadores do usuário?|Não|
+|7|Houve a consolidação dos dados do perfil de usuário?|Sim|
 |8|O Documento possui versionamento?|Sim|
 
 ## Resultados
@@ -24,4 +24,4 @@ Após a verificação com o checklist podemos concluir que o documento do questi
 ## Versões
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 04/04/2022 | Verificação do perfil do usuario e questionário|[Heitor Marques](github.com/heitormsb) |
+| 1.0 | 04/04/2022 | Verificação do perfil do usuário e questionário|[Heitor Marques](github.com/heitormsb) |

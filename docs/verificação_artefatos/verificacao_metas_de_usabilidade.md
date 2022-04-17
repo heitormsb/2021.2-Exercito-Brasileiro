@@ -9,15 +9,13 @@ Inspetor: Kevin<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
-|4|O documento segue o padrão da WIKI?|Sim|
-|5|Aplicou as metas de usabilidade no contexto do site avaliado?|Sim|
-|6|A explicação para cada meta de usabilidade está correta?|Sim|
-|7|Existe uma explicação coerente para as metas aplicadas ao site avaliado?|Sim|
-|8|	O Documento possui versionamento?|Sim|
-|9|	O Documento possui revisores?|Não|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|Aplicou as metas de usabilidade no contexto do site avaliado?|Sim|
+|4|A explicação para cada meta de usabilidade está correta?|Sim|
+|5|Existe uma explicação coerente para as metas aplicadas ao site avaliado?|Sim|
+|6|	O Documento possui versionamento?|Sim|
+|7|	O Documento possui revisores?|Não|
 
 ## Resultados
 De acordo com o checklist, o artefato de metas de usabilidade está nos padrões estabelecidos, precisa somente de revisores.

@@ -9,14 +9,12 @@ Inspetor: Heitor Marques<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
-|4|O documento segue o padrão da WIKI?|Sim|
-|5|Foi abordado os 9 princípios e diretrizes para o design de IHC segundo Barbosa e Silva?|não|
-|6|Esses princípios e diretrizes do projeto foram definidos?|Sim|
-|7|É destacado onde esses princípios serão utilizados, em que fase do ciclo da Mayhew vocês utilizarão esse artefato?|sim|
-|8|O Documento possui versionamento?|Sim|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|Foi abordado os 9 princípios e diretrizes para o design de IHC segundo Barbosa e Silva?|não|
+|4|Esses princípios e diretrizes do projeto foram definidos?|Sim|
+|5|É destacado onde esses princípios serão utilizados, em que fase do ciclo da Mayhew vocês utilizarão esse artefato?|sim|
+|6|O Documento possui versionamento?|Sim|
 
 ## Resultados
 Após a verificação com o checklist podemos concluir que o documento dos princípios e diretrizes do projeto está incompleto, abordando 8 de 9 princípios e diretrizes para o design de IHC segundo Barbosa e Silva.

@@ -9,11 +9,9 @@ Inspetor: Kevin<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe alguma imagem quabrada?|Não|
-|3|Os títulos condizem com a tarefa proposta?|Sim|
-|4|	O roteino do storyboard está bem definido?|Sim|
-|5|	A situação representada no storyboard condiz com a realidade?|Sim|
+|1|Os títulos condizem com a tarefa proposta?|Sim|
+|2|	O roteino do storyboard está bem definido?|Sim|
+|3|	A situação representada no storyboard condiz com a realidade?|Sim|
 
 
 ## Resultados

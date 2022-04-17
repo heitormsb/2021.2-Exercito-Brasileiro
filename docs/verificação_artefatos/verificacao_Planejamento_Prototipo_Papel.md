@@ -9,16 +9,14 @@ Inspetor: Levi Queiroz<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Sim|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quebrada?|Não|
-|4|O documento segue o padrão da WIKI?|Sim|
-|5|O texto está justificado?|Sim|
-|6|As tarefas estão claras?|Sim|
-|7|O protótipo está entendível e fácil de visualização?|Sim|
-|8|O objetivo do Teste-piloto ficou clara?|Sim|
-|9|Os tópicos avaliativos do Planejamento do Relato estão claros?|Sim|
-|10|O documento tem versionamento?|Sim|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|O texto está justificado?|Sim|
+|4|As tarefas estão claras?|Sim|
+|5|O protótipo está entendível e fácil de visualização?|Sim|
+|6|O objetivo do Teste-piloto ficou clara?|Sim|
+|7|Os tópicos avaliativos do Planejamento do Relato estão claros?|Sim|
+|8|O documento tem versionamento?|Sim|
 
 
 

@@ -9,13 +9,12 @@ Inspetor: Levi Queiroz<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|O documento segue o padrão da WIKI?|Sim|
-|4|O texto está justificado?|Sim|
-|5|A metodologia foi bem apresentada?|Sim|
-|6|A tabela foi referenciada?|Sim|
-|7|O documento tem versionamento?|Sim|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|O texto está justificado?|Sim|
+|4|A metodologia foi bem apresentada?|Sim|
+|5|A tabela foi referenciada?|Sim|
+|6|O documento tem versionamento?|Sim|
 
 
 

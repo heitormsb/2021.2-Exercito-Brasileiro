@@ -9,14 +9,12 @@ Inspetor: Kevin<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
-|4|O documento segue o padrão da WIKI?|Sim|
-|5|As questões práticas estão bem especificadas?|Sim|
-|6|O Termo de Consentimento está disponível no documento?	|Não|
-|7|	O relato dos resultados da avaliação foi bem estruturado no documento?|Sim|
-|8|	O Documento possui revisores?|Sim|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|As questões práticas estão bem especificadas?|Sim|
+|4|O Termo de Consentimento está disponível no documento?	|Não|
+|5|	O relato dos resultados da avaliação foi bem estruturado no documento?|Sim|
+|6|	O Documento possui revisores?|Sim|
 
 ## Resultados
 De acordo com o checklist, está faltando o termo de consentimento no documento. Ele será adicionado

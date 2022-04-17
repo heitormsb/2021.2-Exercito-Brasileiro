@@ -9,14 +9,12 @@ Inspetor: Kevin<br>
 ## Checklist
 |ID|Questão|Resposta|
 |--|--|--|
-|1|O documento possui erros gramaticais?|Não|
-|2|Existe uma introdução ou definição do artefato?|Sim|
-|3|Existe alguma imagem quabrada?|Não|
-|4|O documento segue o padrão da WIKI?|Sim|
-|5|Foi especificado no documento se o guia de estilo estava sendo prosposto ou se estava sendo usadas as caracteriscias atuais do site?|Não|
-|6|O guia foi desenvolvido com base nas metas de usabilidade?|Sim|
-|7|A estrutura do Guia de Estilo está de acordo com o padrão Marcus/Mayhew?|Não|
-|8|	O Documento possui versionamento?|Não|
+|1|Existe uma introdução ou definição do artefato?|Sim|
+|2|O documento segue o padrão da WIKI?|Sim|
+|3|Foi especificado no documento se o guia de estilo estava sendo prosposto ou se estava sendo usadas as caracteriscias atuais do site?|Não|
+|4|O guia foi desenvolvido com base nas metas de usabilidade?|Sim|
+|5|A estrutura do Guia de Estilo está de acordo com o padrão Marcus/Mayhew?|Não|
+|6|	O Documento possui versionamento?|Não|
 
 ## Resultados
 De acordo com o checklist, a estrutura do Guia de Estilo não estava no padrão Marcus/Mayhew e o documento nao possui versionamento. As Alterações serão providenciadas. 
