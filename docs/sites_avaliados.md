@@ -1,5 +1,6 @@
 ## 1. Sites avaliados
 ### 1.1 Sites avaliados individualmente
+Foram avaliados individualmente pela equipe sites pré-selecionados para a definição da escolha do site que será usado para dar inicio a nossa avaliação e melhoria do site escolhido na matéria de IHC ao longo do semestre.<br>
 Os sites avaliados pelos integrantes do grupo foram:<br>
 
 - [**Governo do Distrito Federal**](http://www.df.gov.br/) -  Realizada por: [Daniel Coimbra](https://github.com/DanielCoimbra)<br>
