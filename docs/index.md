@@ -13,7 +13,6 @@ Onde tem como objetivo analisar e propor melhorias ao site do [Exército Brasile
 Foto                                 |Integrante      |GitHub
 -------------------------------------|--------------  |------
 <img src="img/Heitor.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)"> |Heitor Marques    |heitormsb
-<img src="img/Alves.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|João Alves  |Joaoaalves
 <img src="img/Kevin.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Kevin Luis   |k3vin-batista
 <img src="img/Levi.jpg" width="20%" style="box-shadow: 3px 3px 4px rgba(50, 50, 50, 0.77)">|Levi Queiroz  |LeviQ27
 
