@@ -1,5 +1,5 @@
 # 1. Definição
-Uma persona é um personagem fictício, hipotético de um grupo de usuários reais, criado pelo pesquisador para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo.  
+Uma persona é um personagem fictício, hipotético de um grupo de usuários reais, criado pelo pesquisador a partir do perfil de usuário definido, para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo.  
 Embora personas sejam fictícias (i.e., não correspondem a uma pessoa real), elas são definidas com rigor e detalhes para representar usuários “típicos”. Elas são derivadas de um processo de investigação que levanta as características dos usuários e descreve seus perfis.
 
 # 1.1 Cuidado na escolha do número de personas
@@ -61,6 +61,10 @@ Segundo Courage e Baxter falam sobre o cuidado na escolha do número de personas
 |Habilidades|Disciplina, liderança, escritor|
 |Tarefas|Escreve histórias marcantes que ocorreram em sua vida|
 |Expectativas|Dificuldade em navegar pelo sistema e desorientado pelo sistema não mostrar o status de envio|
+
+# Conclusão
+
+Foram criadas as personas para a utilização no projeto de IHC para ajudar na realização da avaliação do storyboard e a avaliação do protótipo de baixa fidelidade onde irão simular pessoas reais nas taferas propostas a eles.
 
 
 ## Referências bibliográficas
