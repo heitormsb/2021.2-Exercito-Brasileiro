@@ -16,13 +16,14 @@ Inspetor: Levi Queiroz<br>
 |5|O protótipo está entendível e fácil de visualização?|Sim|
 |6|O objetivo do Teste-piloto ficou clara?|Sim|
 |7|Os tópicos avaliativos do Planejamento do Relato estão claros?|Sim|
-|8|O documento tem versionamento?|Sim|
 
 
 
 
 ## Resultados
+<div style="text-align: justify">
 Após a verificação com o checklist podemos concluir que o documento de Protótipo de Papel está de acordo com os padrões estabelecidos e tem resultados satisfatórios. Os erros gramáticais ocorridos foram: No tópico 3.2 "usuário" está sem o acento agudo e no tópico 3.4 "as" em referẽncia à "questões e objetivos do estudo".
+</div>
 
 ## Versões
 | Versão | Data | Modificação | Autor |
@@ -30,3 +31,4 @@ Após a verificação com o checklist podemos concluir que o documento de Protó
 | 1.0 | 06/04/2022 | Verificação do Planejamento da avaliação do Protótipo em papel |[Levi Queiroz](github.com/LeviQ27) |
 | 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |
 | 1.2 | 06/04/2022 | Consertando Tabela e Erros Gramaticais |[Levi Queiroz](github.com/LeviQ27) |
+|1.3|19/04/2022| Aplicando correções a partir dos feedbacks retornados da entrega 6 | [Levi Queiroz](https://github.com/LeviQ27)||

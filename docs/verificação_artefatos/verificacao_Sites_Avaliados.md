@@ -15,11 +15,12 @@ Inspetor: Levi Queiroz<br>
 |4|Os links funcionam?|Sim|
 |5|A imagem está legível?|Não|
 |6|Ficou claro a escolha do site?|Sim|
-|7|O documento tem versionamento?|Sim|
 
 
 ## Resultados
+<div style="text-align: justify">
 Após a verificação com o checklist podemos concluir que o documento de Sites Avaliados está de acordo com os padrões estabelecidos e tem resultados satisfatórios. Um fator a ser corrigido é o tamanho da imagem, pois está pouco legível.
+</div>
 
 ## Versões
 | Versão | Data | Modificação | Autor |
@@ -27,3 +28,4 @@ Após a verificação com o checklist podemos concluir que o documento de Sites 
 | 1.0 | 06/04/2022 | Verificação de Sites Avaliados |[Levi Queiroz](github.com/LeviQ27) |
 | 1.1 | 06/04/2022 | Consertando Tabela |[Levi Queiroz](github.com/LeviQ27) |
 | 1.2 | 06/04/2022 | Consertando Tabela e Erros Gramaticais |[Levi Queiroz](github.com/LeviQ27) |
+|1.3|19/04/2022| Aplicando correções a partir dos feedbacks retornados da entrega 6 | [Levi Queiroz](https://github.com/LeviQ27)||
