@@ -26,6 +26,8 @@ A metodologia que será utilizada para coletar os dados e visualizar se o protó
 O termo de condição será impresso e assinado pelo entrevistado e será colocado o protótipo de alta-fidelidade no computador que será emprestado ao entrevistado para ser realizado as tarefas.
 </div>
 
+<embed src="../../arquivos/Termo_de_condicao_protoAlta.pdf" width="700" height="500" type='application/pdf'>
+
 ## 3.2 Tarefas Propostas
 <div style="text-align: justify">
 - Ver se as opções "ir para rodapé" e "ir para conteúdo" estão funcionando
@@ -76,3 +78,4 @@ Nesta atividade será informado aos participantes os seguintes tópicos:
 |1.0|11/04/2022|Adicionando Planejamento da Avaliação do Protótipo de Alta-Fidelidade|[Levi Queiroz](github.com/LeviQ27)||
 |1.1|25/04/2022|Adicionando Protótipo de Alta-Fidelidade|[Levi Queiroz](github.com/LeviQ27)||
 |1.2|25/04/2022| Aplicando correções a partir dos feedbacks retornados da entrega 7 | [Levi Queiroz](https://github.com/LeviQ27)||
+|1.3|25/04/2022| Adicionando arquivo pdf do Termo de Condição | [Levi Queiroz](https://github.com/LeviQ27)||
