@@ -43,7 +43,7 @@ nav:
           - Relato dos resultados: ./Design_avaliacao_desenv/nivel2/relato_resultado_prototipo_papel.md
       - Nível 3:
         - Planejamento da Avaliação: ./Design_avaliacao_desenv/nivel3/planejamento_avaliacao_protoAltaFid.md
-        - Relato dos resultados: ./Design_avaliacao_desenv/nivel3/prototipo_alta.md
+        - Relato dos resultados: ./Design_avaliacao_desenv/nivel3/relato_protoAltaFid.md
     - Verificação dos artefatos:
       - Introdução: ./verificação_artefatos/introducao_verificacao.md
       - Sites avaliados: ./verificação_artefatos/verificacao_Sites_Avaliados.md
@@ -66,3 +66,5 @@ nav:
       - Entrega 4: entrega4.md
       - Entrega 5: entrega5.md
       - Entrega 6: entrega6.md
+      - Entrega 7: entrega7.md
+      - Entrega Final: entregaFinal.md
