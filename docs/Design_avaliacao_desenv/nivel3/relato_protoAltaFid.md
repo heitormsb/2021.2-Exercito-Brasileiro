@@ -6,7 +6,6 @@ A prototipagem de alta-fidelidade é a que utiliza materiais que se espera que e
 ## 2 Método
 
 ### 2.1 Participantes
-<div style="text-align: justify">
 A entrevista foi realizada com dois participantes sendo, uma pessoa real e outra uma persona, elas foram:
 
 - Persona: André Xin, Estudante (Cursando Ensino Médio), de 17 anos.
@@ -14,20 +13,16 @@ A entrevista foi realizada com dois participantes sendo, uma pessoa real e outra
 
 - João de Oliveira, 18 anos, acabou de se formar e está prestando vestibular:
   - Entrevista disponível em: [Link](https://drive.google.com/file/d/1hvZRBmkLqxYidxwP4LkGGR0ozeQW2CJa/view?usp=sharing).
-</div>
 
 ### 2.2 Ambientação
-<div style="text-align: justify">
 As entrevistas foram realizadas de forma presencial, de modo que era necessário apenas um aparelho celular ou computador e uma conexão via wifi ou rede de dados para realizar as tarefas. Os entrevistados estavam bem familiarizados com a plataforma e não tiveram dificuldades em relação ao ambiente. 
-</div>
 
 ### 2.3 Teste-Piloto
-<div style="text-align: justify">
 
 O teste-piloto foi realizado apenas com um usuário para testear se as funcionalidades estavam funcionando num contexto de avaliação.
+
 - Teste-Piloto, link em: [Link](https://drive.google.com/file/d/1VcGTIc3mSbp1N8Pcp3y5FhEEna3k7H4p/view?usp=sharing).
 
-</div>
 
 ## 3 Relato dos Resultados
 
