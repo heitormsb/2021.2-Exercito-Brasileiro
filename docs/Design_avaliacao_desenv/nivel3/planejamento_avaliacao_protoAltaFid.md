@@ -12,8 +12,8 @@ A metodologia que será utilizada para coletar os dados e visualizar se o protó
 
 |Atividade|Tarefas|
 |--|--|
-|Preparação| - definir tarefas para os participantes executarem <br> - definir o perfil dos participantes e recrutá-los <br> - criar protótipos em papel da interface para executar as tarefas <br> - executar um teste-piloto|
-|Coleta de dados <br> Interpretação| - Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador <br> - Avaliador deve: <br> &nbsp; &nbsp; - listar os problemas encontrados <br> &nbsp; &nbsp; - refinar os protótipos em papel para resolver os problemas mais simples|
+|Preparação| - definir tarefas para os participantes executarem <br> - definir o perfil dos participantes e recrutá-los <br> - criar protótipo de alta-fidelidade da interface para executar as tarefas <br> - executar um teste-piloto|
+|Coleta de dados <br> Interpretação| - Cada usuário deve executar as tarefas propostas interagindo com as funcionalidades do protótipo de alta-fidelidade, mediado pelo avaliador <br> - Avaliador deve: <br> &nbsp; &nbsp; - listar os problemas encontrados <br> &nbsp; &nbsp; - refinar o protótipos de alta-fidelidade para resolver os problemas mais simples|
 |Consolidação dos resultados| - Priorizar a correção dos problemas não resolvidos <br> - Sugerir correções|
 |Relato dos resultados| - Relatar os problemas encontrados e sugestões de correção|
 
@@ -79,3 +79,4 @@ Nesta atividade será informado aos participantes os seguintes tópicos:
 |1.1|25/04/2022|Adicionando Protótipo de Alta-Fidelidade|[Levi Queiroz](github.com/LeviQ27)||
 |1.2|25/04/2022| Aplicando correções a partir dos feedbacks retornados da entrega 7 | [Levi Queiroz](https://github.com/LeviQ27)||
 |1.3|25/04/2022| Adicionando arquivo pdf do Termo de Condição | [Levi Queiroz](https://github.com/LeviQ27)||
+|1.4|25/04/2022| Consertando Tabela | [Levi Queiroz](https://github.com/LeviQ27)||
