@@ -25,8 +25,7 @@ A metodologia que será utilizada para coletar os dados e visualizar se o protó
 <div style="text-align: justify">
 O termo de condição será impresso e assinado pelo entrevistado e será colocado o protótipo de alta-fidelidade no computador que será emprestado ao entrevistado para ser realizado as tarefas.
 
-<embed src="../../arquivos/Termo_de_condicao_protoAlta.pdf" width="700" height="500" type='application/pdf'>
-
+<embed src="../../../arquivos/Termo_de_condicao_protoAlta.pdf" width="700" height="500" type='application/pdf'>
 </div>
 
 
