@@ -24,9 +24,11 @@ A metodologia que será utilizada para coletar os dados e visualizar se o protó
 ## 3.1 Termo de Condição e Ambientação
 <div style="text-align: justify">
 O termo de condição será impresso e assinado pelo entrevistado e será colocado o protótipo de alta-fidelidade no computador que será emprestado ao entrevistado para ser realizado as tarefas.
-</div>
 
 <embed src="../../arquivos/Termo_de_condicao_protoAlta.pdf" width="700" height="500" type='application/pdf'>
+
+</div>
+
 
 ## 3.2 Tarefas Propostas
 <div style="text-align: justify">
@@ -52,9 +54,12 @@ A prototipagem de alta-fidelidade é a que utiliza materiais que se espera que e
 
 ### 3.4.2 Protótipo
 <div style="text-align: justify">
+
 Segue o prótotipo de alta-fidelidade feito na ferramenta [Figma](https://www.figma.com/)
-<br>
+
 </div>
+
+<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/7nrFDn2P0REVY7IR9ohJpe/Untitled?node-id=7%3A106&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=7%3A106" allowfullscreen></iframe>
 
@@ -63,7 +68,7 @@ Segue o prótotipo de alta-fidelidade feito na ferramenta [Figma](https://www.fi
 Nesta atividade será informado aos participantes os seguintes tópicos:
 
 - Objetivos da avaliação;
-- Descrição do método de prototipação de papel;
+- Descrição do método de prototipação de alta-fidelidade;
 - Número e perfil de avaliadores e participantes;
 - As tarefas executadas pelos participantes
 - Problemas enfrentados
@@ -80,3 +85,4 @@ Nesta atividade será informado aos participantes os seguintes tópicos:
 |1.2|25/04/2022| Aplicando correções a partir dos feedbacks retornados da entrega 7 | [Levi Queiroz](https://github.com/LeviQ27)||
 |1.3|25/04/2022| Adicionando arquivo pdf do Termo de Condição | [Levi Queiroz](https://github.com/LeviQ27)||
 |1.4|25/04/2022| Consertando Tabela | [Levi Queiroz](https://github.com/LeviQ27)||
+|1.5|25/04/2022| Consertando Links e erros de escrita | [Levi Queiroz](https://github.com/LeviQ27)||
