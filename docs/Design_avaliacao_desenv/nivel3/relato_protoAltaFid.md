@@ -1,4 +1,4 @@
-# Protótipo de Alta-Fidelidade
+# Relato de Avaliação do Protótipo de Alta-Fidelidade
 
 ## 1 Introdução
 A prototipagem de alta-fidelidade é a que utiliza materiais que se espera que estejam no produto final. É útil para vender idéias as pessoas e para testar questões técnicas.
@@ -23,8 +23,10 @@ As entrevistas foram realizadas de forma presencial, de modo que era necessário
 
 ### 2.3 Teste-Piloto
 <div style="text-align: justify">
+
 O teste-piloto foi realizado apenas com um usuário para testear se as funcionalidades estavam funcionando num contexto de avaliação.
 - Teste-Piloto, link em: [Link](https://drive.google.com/file/d/1VcGTIc3mSbp1N8Pcp3y5FhEEna3k7H4p/view?usp=sharing).
+
 </div>
 
 ## 3 Relato dos Resultados
@@ -53,3 +55,4 @@ Ao coletar os dados, foi concluido que o protótipo de alta-fidelidade obteve os
 |1.0|11/04/2022|Adicionando Protótipo de Alta-Fidelidade|[Levi Queiroz](github.com/LeviQ27)||
 |1.1|11/04/2022|Retirado o Protótipo de Alta-Fidelidade e Adicionado o Relato dos Resultados|[Levi Queiroz](github.com/LeviQ27)||
 |1.2|25/04/2022| Aplicando correções a partir dos feedbacks retornados da entrega 7 | [Levi Queiroz](https://github.com/LeviQ27)||
+|1.3|25/04/2022| Alterando o Título do Artefato | [Levi Queiroz](https://github.com/LeviQ27)||
